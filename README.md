@@ -6,20 +6,20 @@ I will continue to update and refine this guide with further practice, feedback,
 ---
 
 ## Sections
-### [Preparation](sections/1-preparation)
+### [Preparation](sections/0-preparation)
 | Section | Description | Status | Author Notes |
 |---------|-------------|--------|--------------|
-| Scope | Setting the production boundaries and expectations of your game. | ✅ | _Want to restructure from combined scope-market file..._ |
-| Marketing | Knowing your customer-base, the market, and your monetisation strategy. | ✅ | _Want to restructure from combined scope-market file..._ |
+| [Production Scope](sections/0-preparation/1-production-scope.md) | Setting the production boundaries and expectations of your game. | ✅ | _Want to restructure from combined scope-market file..._ |
+| [Market Conditions](sections/0-preparation/2-market-conditions.md) | Knowing your customer-base, the market, and your monetisation strategy. | ✅ | _Want to restructure from combined scope-market file..._ |
 
-### [Pre-Production](sections/2-pre-production)
+### [Pre-Production](sections/1-pre-production)
 | Section | Description | Status | Author Notes |
 |---------|-------------|--------|--------------|
-| Mechanics Design | Catering to player dynamics via game systems. | ⏳ |
-| Narrative Design | Worldbuilding and storytelling for your game. | ⏳ |
-| Interactive Design | Player interaction with the game system. | ⏳ |
-| Aesthetics Design | The graphics, models, sounds, and music. | ⏳ |
-| Level Design | Spatial composition to guide and pace the player. | ⏳ |
+| [Mechanics Design](sections/1-pre-production/1-mechanics-design.md) | Catering to player dynamics via game systems. | ⏳ |
+| [Narrative Design](sections/1-pre-production/2-interactive-design.md) | Worldbuilding and storytelling for your game. | ⏳ |
+| [Interactive Design](sections/1-pre-production/3-narrative-design.md) | Player interaction with the game system. | ⏳ |
+| [Aesthetics Design](sections/1-pre-production/4-aesthetics-design.md) | The graphics, models, sounds, and music. | ⏳ |
+| [Level Design](sections/1-pre-production/5-level-design.md) | Spatial composition to guide and pace the player. | ⏳ |
 
 ---
 
