@@ -6,12 +6,17 @@ I will continue to update and refine this guide with further practice, feedback,
 ---
 
 ## Sections
-
+### Preparation
 | Section | Description | Status | Author Notes |
 |---------|-------------|--------|--------------|
-| Scope & Marketing | Setting the boundaries and expectations of your game. | ✅ | _Want to restructure in-doc market conditions section..._ |
-| Narrative Design | Worldbuilding and storytelling for your game. | ⏳ |
+| Scope | Setting the production boundaries and expectations of your game. | ✅ | _Want to restructure from combined scope-market file..._ |
+| Marketing | Knowing your customer-base, the market, and your monetisation strategy. | ✅ | _Want to restructure from combined scope-market file..._ |
+
+### Pre-Production
+| Section | Description | Status | Author Notes |
+|---------|-------------|--------|--------------|
 | Mechanic Design | Catering to player dynamics via game systems. | ⏳ |
+| Narrative Design | Worldbuilding and storytelling for your game. | ⏳ |
 | Interactive Design | Player interaction with the game system. | ⏳ |
 | Aesthetic Design | The graphics, models, sounds, and music. | ⏳ |
 | Level Design | Spatial composition to guide and pace the player. | ⏳ |
