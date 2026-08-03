@@ -6,13 +6,13 @@ I will continue to update and refine this guide with further practice, feedback,
 ---
 
 ## Sections
-### Preparation
+### [Preparation](sections/1-preparation)
 | Section | Description | Status | Author Notes |
 |---------|-------------|--------|--------------|
 | Scope | Setting the production boundaries and expectations of your game. | ✅ | _Want to restructure from combined scope-market file..._ |
 | Marketing | Knowing your customer-base, the market, and your monetisation strategy. | ✅ | _Want to restructure from combined scope-market file..._ |
 
-### Pre-Production
+### [Pre-Production](sections/2-pre-production)
 | Section | Description | Status | Author Notes |
 |---------|-------------|--------|--------------|
 | Mechanics Design | Catering to player dynamics via game systems. | ⏳ |
