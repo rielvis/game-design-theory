@@ -20,7 +20,7 @@ Throughout your designs, consider the following:
 
 ---
 
-## STEP 0 - Game Idea & Design Pillars
+## P1-STEP 0 - Game Idea & Design Pillars
 Every game starts with an idea or a premise. The idea could be a game mechanic, a story theme, an artistic style, or it could be as simple as a feeling or experience you want the player to have regardless of the specific game mechanic or plot line. 
 
 Your **design pillars** are the core ideas and concepts that describe the identity of your game.
@@ -29,4 +29,4 @@ Your **design pillars** are the core ideas and concepts that describe the identi
 
 ---
 
-**NEXT STEP >>** _[STEP 1 - Mechanics Design](1-mechanics-design.md)_
+**NEXT STEP >>** _[P1-STEP 1 : Mechanics Design](1-mechanics-design.md)_
