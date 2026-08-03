@@ -1,6 +1,6 @@
 # Scope & Marketing
 The first thing you need to do is establish two things:
-- [Market Conditions](https://github.com/robiin-dv/game-design-theory/blob/master/sections/scope-marketing.md#production-scope)
+- [Production Scope](https://github.com/robiin-dv/game-design-theory/blob/master/sections/scope-marketing.md#production-scope)
 - [Market Conditions](https://github.com/robiin-dv/game-design-theory/blob/master/sections/scope-marketing.md#market-conditions)
 
 ## Production Scope
