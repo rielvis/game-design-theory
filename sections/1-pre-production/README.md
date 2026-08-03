@@ -32,10 +32,6 @@ Your **design pillars** are the core ideas and concepts that describe the identi
 **_To establish the initial idea for your game, create a one-line pitch that encapsulates the core of what your game is about mechanically, narratively, and aesthetically._**
 
 ---
-
-| **<<<** _[PHASE 0 - Preparation](https://github.com/robiin-dv/game-design-theory/tree/master/sections/0-preparation)_ **<<<** | **<** _[P0-STEP 2 : Market Conditions](https://github.com/robiin-dv/game-design-theory/tree/master/sections/0-preparation/2-market-conditions.md)_ **<** | **>** _[P1-STEP 1 : Mechanics Design](1-mechanics-design.md)_ **>** | **>>>** _[PHASE 2 : Production]()_ **>>>** |
+|**<<<**|**<**|**>**|**>>>**|
 |-|-|-|-|
-
-
-
-
+| _[PHASE 0 - Preparation](https://github.com/robiin-dv/game-design-theory/tree/master/sections/0-preparation)_ | _[P0-STEP 2 : Market Conditions](https://github.com/robiin-dv/game-design-theory/tree/master/sections/0-preparation/2-market-conditions.md)_ | _[P1-STEP 1 : Mechanics Design](1-mechanics-design.md)_ | _[PHASE 2 : Production]()_ |
