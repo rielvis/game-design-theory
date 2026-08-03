@@ -18,4 +18,17 @@ I will continue to update and refine this guide with further practice, feedback,
 
 ---
 
-License: [CC BY](https://creativecommons.org/licenses/by/4.0/)
+## License & Content Notice
+
+This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivs 4.0 International License][cc-by-nc-nd].
+
+[![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
+
+[cc-by-nc-nd]: http://creativecommons.org/licenses/by-nc-nd/4.0/
+[cc-by-nc-nd-shield]: https://img.shields.io/badge/License-CC%20BY--NC--ND%204.0-lightgrey.svg
+
+### AI Notice
+
+*AI search engine tools i.e. Google AI Overview were active while searching for information.*
+
+*No generative AI tools were used to produce any text, imagery, or relative content.*
