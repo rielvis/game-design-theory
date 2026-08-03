@@ -1,7 +1,7 @@
 # Scope & Marketing
 The first thing you need to do is establish two things:
-- [Production Scope](https://github.com/robiin-dv/game-design-theory/new/master#production-scope)
-- [Market Conditions](https://github.com/robiin-dv/game-design-theory/new/master#market-conditions)
+- [Market Conditions](https://github.com/robiin-dv/game-design-theory/blob/master/sections/scope-marketing.md#production-scope)
+- [Market Conditions](https://github.com/robiin-dv/game-design-theory/blob/master/sections/scope-marketing.md#market-conditions)
 
 ## Production Scope
 The production scope determines what we can afford to include in our game given the skills, money, and time we have available to produce it.
