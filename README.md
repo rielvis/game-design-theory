@@ -7,14 +7,14 @@ I will continue to update and refine this guide with further practice, feedback,
 
 ## Sections
 ### [Preparation](sections/0-preparation)
-| Section | Description | Status | Author Notes |
-|---------|-------------|--------|--------------|
-| [Production Scope](sections/0-preparation/1-production-scope.md) | Setting the production boundaries and expectations of your game. | ✅ | _Want to restructure from combined scope-market file..._ |
-| [Market Conditions](sections/0-preparation/2-market-conditions.md) | Knowing your customer-base, the market, and your monetisation strategy. | ✅ | _Want to restructure from combined scope-market file..._ |
+| Section | Description | Status |
+|---------|-------------|--------|
+| [Production Scope](sections/0-preparation/1-production-scope.md) | Setting the production boundaries and expectations of your game. | ⏳ |
+| [Market Conditions](sections/0-preparation/2-market-conditions.md) | Knowing your customer-base, the market, and your monetisation strategy. | ⏳ |
 
 ### [Pre-Production](sections/1-pre-production)
-| Section | Description | Status | Author Notes |
-|---------|-------------|--------|--------------|
+| Section | Description | Status |
+|---------|-------------|--------|
 | [Mechanics Design](sections/1-pre-production/1-mechanics-design.md) | Catering to player dynamics via game systems. | ⏳ |
 | [Narrative Design](sections/1-pre-production/2-interactive-design.md) | Worldbuilding and storytelling for your game. | ⏳ |
 | [Interactive Design](sections/1-pre-production/3-narrative-design.md) | Player interaction with the game system. | ⏳ |
