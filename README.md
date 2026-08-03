@@ -9,7 +9,7 @@ I will continue to update and refine this guide with further practice, feedback,
 
 | Section | Description | Status |
 |---------|-------------|--------|
-| Scope & Marketing | Setting the boundaries and expectations of your game. | ⏳ |
+| [Scope & Marketing](sections/scope-marketing.md) | Setting the boundaries and expectations of your game. | ⏳ |
 | Narrative Design | Worldbuilding and storytelling for your game. | ⏳ |
 | Mechanic Design | Catering to player dynamics via game systems. | ⏳ |
 | Interactive Design | Player interaction with the game system. | ⏳ |
