@@ -14,4 +14,4 @@ _**For casual solo projects, this may be skipped. But for those looking to effec
 
 **NEXT STEP >>** _[P0-STEP 1 : Production Scope](1-production-scope.md)_
 
-**NEXT PHASE >>** _[PHASE 1 - Pre-Production](https://github.com/robiin-dv/game-design-theory/tree/master/sections/2-pre-production)_
+**NEXT PHASE >>** _[PHASE 1 - Pre-Production](https://github.com/robiin-dv/game-design-theory/tree/master/sections/1-pre-production)_
