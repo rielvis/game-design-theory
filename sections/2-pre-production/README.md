@@ -30,3 +30,9 @@ Your **design pillars** are the core ideas and concepts that describe the identi
 ---
 
 **NEXT STEP >>** _[P1-STEP 1 : Mechanics Design](1-mechanics-design.md)_
+
+**NEXT PHASE >>** _[PHASE 2 : Production]()_
+
+**LAST STEP <<** _[P0-STEP 2 : Market Conditions](https://github.com/robiin-dv/game-design-theory/tree/master/sections/0-preparation/2-market-conditions.md)_
+
+**LAST PHASE <<** _[PHASE 0 - Preparation](https://github.com/robiin-dv/game-design-theory/tree/master/sections/0-preparation)_
