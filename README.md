@@ -34,6 +34,6 @@ This work is licensed under a [Creative Commons Attribution-NonCommercial-NoDeri
 
 ### AI Notice
 
-*AI search engine tools i.e. Google AI Overview were active while searching for information.*
+*AI search engine tools (i.e. Google AI Overview) were active while searching for information.*
 
 *No generative AI tools were used to produce any text, imagery, or relative content.*
