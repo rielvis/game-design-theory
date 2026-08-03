@@ -18,7 +18,7 @@ I will continue to update and refine this guide with further practice, feedback,
 | [Mechanics Design](sections/1-pre-production/1-mechanics-design.md) | Catering to player dynamics via game systems. | ⏳ |
 | [Narrative Design](sections/1-pre-production/2-interactive-design.md) | Worldbuilding and storytelling for your game. | ⏳ |
 | [Interactive Design](sections/1-pre-production/3-narrative-design.md) | Player interaction with the game system. | ⏳ |
-| [Aesthetics Design](sections/1-pre-production/4-aesthetics-design.md) | The graphics, models, sounds, and music. | ⏳ |
+| [Aesthetics Design](sections/1-pre-production/4-aesthetics-design.md) | The graphics, animations, sounds, and music. | ⏳ |
 | [Level Design](sections/1-pre-production/5-level-design.md) | Spatial composition to guide and pace the player. | ⏳ |
 
 ### [P2 - Production]()
