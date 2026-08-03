@@ -15,7 +15,7 @@ I will continue to update and refine this guide with further practice, feedback,
 ### Pre-Production
 | Section | Description | Status | Author Notes |
 |---------|-------------|--------|--------------|
-| Mechanic Design | Catering to player dynamics via game systems. | ⏳ |
+| Mechanics Design | Catering to player dynamics via game systems. | ⏳ |
 | Narrative Design | Worldbuilding and storytelling for your game. | ⏳ |
 | Interactive Design | Player interaction with the game system. | ⏳ |
 | Aesthetic Design | The graphics, models, sounds, and music. | ⏳ |
