@@ -18,7 +18,7 @@ I will continue to update and refine this guide with further practice, feedback,
 | Mechanics Design | Catering to player dynamics via game systems. | ⏳ |
 | Narrative Design | Worldbuilding and storytelling for your game. | ⏳ |
 | Interactive Design | Player interaction with the game system. | ⏳ |
-| Aesthetic Design | The graphics, models, sounds, and music. | ⏳ |
+| Aesthetics Design | The graphics, models, sounds, and music. | ⏳ |
 | Level Design | Spatial composition to guide and pace the player. | ⏳ |
 
 ---
