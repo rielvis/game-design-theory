@@ -3,6 +3,8 @@ The production scope determines what we can afford to include in our game given 
 
 Deliverable for this step is a **production scope audit** detailing the constraints, exclusions, goals, and timeline for your game project.
 
+---
+
 ## Identify the Constraints
 Start by identifying the constraints on the technology, skills, money, and time you have secured to spend on your project. Doing this initially protects your resources from being spent on out-of-scope features.
 
