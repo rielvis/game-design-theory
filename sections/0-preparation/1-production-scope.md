@@ -26,3 +26,8 @@ Then, within the limits you set, ask yourself what you **_want_** to achieve.
 
 ## Draw the Timeline
 Finally, using your goals and deliverables, draw a task-by-task timeline for you and your team to follow.
+
+---
+
+|**<<<**|**<**|**>**|**>>>**|
+|-|-|-|-|
