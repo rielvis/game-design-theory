@@ -127,13 +127,20 @@ Deciding which platforms you want to build for depends on which platform your au
 - PC primarily uses **_keyboard and mouse_** input
 
 ## Product & Audience Monitoring
-Audience monitoring is beneficial prior and during the development of your game to gauge what your players want, but it can also be helpful to monitor your game post-release. Doing this requires your game to be connected to an online service like GameAnalytics or Unity Analytics.
+Audience monitoring is beneficial prior and during the development of your game to gauge what your players want, but it can also be helpful to monitor your game post-release. 
 
-You can integrate analytical tools into your game to track specific activities. When a player does something you are programmed to track, it pings the activity to your analytical database via the internet.
+Doing this requires your game to be connected to an online service like:
+- [**GameAnalytics**](https://www.gameanalytics.com/): mobile, console, PC, and VR/AR tracking
+- [**Unity Analytics**](https://docs.unity.com/analytics): performance and behaviour tracking for Unity-built games
+- [**Google Firebase**](https://firebase.google.com/): web and mobile tracking
 
-_**Do not prevent your game from running offline though. Gamers are sick of paying for netlocked games.**_
+You can integrate analytical tools into your game to track specific activities. When a player does something you are programmed to track, it pings the activity to your database/dashboard via the internet.
 
-Tracking certain activities in your game can help you understand player behaviour to patch your game for optimisation as well as inform your design for future games.
+_**DO NOT PREVENT YOUR GAME FROM RUNNING WITHOUT INTERNET!**_
+
+_**GAMERS ARE SICK OF NETLOCKED GAMES!**_
+
+Tracking certain activities in your game can help you understand player behaviour to inform your designs for future games.
 
 ## Acquisition Costs & Lifetime Value
 Previously outlined under Money Constraints & Requirements, your game is going to cost money and you’re often expected to make back those expenses via sales. To do that, you need to acquire customers which is done via marketing, but marketing itself also costs money.
