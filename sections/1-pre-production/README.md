@@ -2,13 +2,15 @@
 Once your scope and marketing is established, you can begin documenting your design.
 
 Deliverable for this phase is a **_Game Design Document_**, composed of the following:
-- [Mechanics Design](1-mechanics-design.md)
-- [Interactive Design](2-interactive-design.md)
-- [Narrative Design](3-narrative-design.md)
-- [Aesthetics Design](4-aesthetics-design.md)
-- [Level Design](5-level-design.md)
+- [**Mechanics Design**](1-mechanics-design.md)
+- [**Interactive Design**](2-interactive-design.md)
+- [**Narrative Design**](3-narrative-design.md)
+- [**Aesthetics Design**](4-aesthetics-design.md)
+- [**Level Design**](5-level-design.md)
 
 _Each aspect of design should be documented independently but referentially to each other._
+
+> _M.I.N.A.L._
 
 ---
 
