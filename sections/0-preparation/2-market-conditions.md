@@ -30,7 +30,7 @@ Markets and media are regulated all over the world. Countries via local jurisdic
 
 **_CONDUCT YOUR OWN RESEARCH AND/OR CONSULT A REAL LEGAL EXPERT IN YOUR JURISDICTION!_**
 
-...
+--
 
 In the UK, there are three main legal areas you know of: **_consumer protection_**, **_intellectual property_**, **_publishing agreement_**, and **_content disclosure and regulation_**.
 
@@ -68,7 +68,7 @@ The following organisations and acts play a role in disclosing information consu
 
 > _Overall Point: Get rated by PEGI, check your advertisement against ASA standards, regulate telecommunications and AI systems if used, and disclose AI usage to your customers._
 
-...
+--
 
 Sources:
 - [Aubergine Legal (05/2023) 'Legal Considerations For Video Game Developers'](https://www.auberginelegal.co.uk/post/legal-considerations-for-video-game-developers)
