@@ -26,9 +26,48 @@ Keeping track of genre standards involves knowing what different games within a 
 ## Legal & Ethical Compliance
 Markets and media are regulated all over the world. Countries via local jurisdiction will have their own rules and regulations for economic activity.
 
-In the UK, there are plenty of laws governing things like data privacy, online gambling, copyright licensing, and online safety. We also have organisations like PEGI that give age-ratings to games so parents know whether a game is suitable for their children, as well as ASA for advertisement ethics and Ofcom for telecommunications compliance.
+**_THIS IS NOT LEGAL ADVICE! CONDUCT YOUR OWN RESEARCH AND/OR CONSULT A REAL LEGAL EXPERT IN YOUR JURISDICTION!_**
 
-Make sure you’re updated on current legal rules and ethical standards, and that your current practice does not breach any of it.
+In the UK, there are three main legal areas you know of: **_consumer protection_**, **_intellectual property_**, and **_publishing agreement_**.
+
+Sources:
+- [Aubergine Legal (05/2023) 'Legal Considerations For Video Game Developers'](https://www.auberginelegal.co.uk/post/legal-considerations-for-video-game-developers)
+- [Anna Poulter-Jones (02/2026) 'How recent laws impact game design, from in-game chat to notifications'](https://www.gamesindustry.biz/how-recent-laws-impact-game-design-from-in-game-chat-to-notifications)
+- [Duncan Calow & Ally Clark (02/2025) 'Video Games: UK Government confirms it will not amend consumer law to require video game publishers to support old versions of their games'](https://www.dlapiper.com/en-us/insights/blogs/mse-today/2025/video-games-uk-government-confirms-it-will-not-amend-consumer-law)
+
+### _Consumer Protection_
+The following laws play a role in protecting consumers from breaches of privacy, dark economic patterns, and consumer exploitation:
+- **General Data Protection Regulation (GDPR)**
+- **Digital Services Act (DSA)**
+- **Consumer Protection from Unfair Trading Regulations 2008 (CPUTR)**
+- **Consumer Rights Act 2015 (CRA)**
+- **Online Safety Act 2023 (OSA)**
+- **Digital Markets, Competition and Consumers Act 2024 (DMCCA)**
+
+> _Overall Point: Ensure your consumers are well informed about your product and are free to stop further investment at any point._
+
+### _Intellectual Property_
+The following laws play a role in protecting intellectual property from being stolen or infringed upon without permission or due credit and compensation:
+- **The Patents Act 1977 (PA)**
+- **Copyright, Designs, and Patents Act 1988 (CDPA)**
+- **Trade Marks Act 1994 (TMA)**
+
+> _Overall Point: Check IP registers to ensure your designs and trademarks are not already reserved by another party._
+
+### _Publishing Agreement_
+The following laws play a role in ensuring contracts are fair to all parties involved in said contract:
+- **Contracts (Applicable Law) Act 1990 (COALA)**
+
+> _Overall Point: Thoroughly read and consider every clause in any agreement you sign._
+
+### _Content Disclosures & Regulation_
+The following organisations and acts play a role in disclosing information consumers will want to know before they purchase your game:
+- [**Pan-European Game Information (PEGI)**](https://pegi.info/)
+- [**Advertising Standards Authority (ASA)**](https://www.asa.org.uk/)
+- [**Office of Communications (Ofcom)**](https://www.ofcom.org.uk/)
+- [**Artificial Intelligence Act (AI Act)**](https://artificialintelligenceact.eu/)
+
+> _Overall Point: Get PEGI rated, check your advertisement against ASA standards, regulate telecommunications and AI systems if used, and disclose AI usage to your custoemrs._
 
 ## Advertisement & Product Appeal
 In order to get your game known to your audience, you need to advertise. This involves creating various types of content to post to social media and ad networks that show your product to wherever your audience may be. Commonly for games, advertisement is done via social media and video platforms like YouTube, Instagram, TikTok, as well as text-thread platforms like Reddit and Bluesky.
