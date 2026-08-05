@@ -76,11 +76,26 @@ Sources:
 - [Duncan Calow & Ally Clark (02/2025) 'Video Games: UK Government confirms it will not amend consumer law to require video game publishers to support old versions of their games'](https://www.dlapiper.com/en-us/insights/blogs/mse-today/2025/video-games-uk-government-confirms-it-will-not-amend-consumer-law)
 
 ## Advertisement & Product Appeal
-In order to get your game known to your audience, you need to advertise. This involves creating various types of content to post to social media and ad networks that show your product to wherever your audience may be. Commonly for games, advertisement is done via social media and video platforms like YouTube, Instagram, TikTok, as well as text-thread platforms like Reddit and Bluesky.
+In order to get your game known to your audience, you need to advertise. This involves creating various types of content to post to wherever your audience may be.
 
-Your advertisements also need to communicate the appeal of your game, which is how attractive your game looks to potentially buying players.
+Advertisement is typically shared via:
+- **Ad Networks**
+  - _[Google Ads](https://business.google.com/uk/google-ads/)_
+  - _[Meta Ads](https://www.facebook.com/business/ads)_
+  - _[Microsoft Advertising](https://ads.microsoft.com/)_
+- **Social Media**
+  - _YouTube_
+  - _Instagram_
+  - _TikTok_
+  - _Bluesky_
+  - _Reddit_
+  - _Discord_
 
-To effectively advertise, you need to ensure you are keeping track of where your audience is often found online, and what they would find appealing in a game. Knowing these things can inform how your advertisements are written and formatted.
+Your advertisements need to communicate the appeal and attractiveness of your game.
+
+...
+
+Keep track of where your audience is often found online, and what they would find appealing in a game. Knowing these things can inform how your advertisements are written and formatted.
 
 ## Platforming & Distribution Channels
 Video games are possible thanks to the tech companies that build and maintain their tech ecosystems. Microsoft builds Windows & Xbox, Apple builds macOS & iOS, Google builds Android, Sony builds PlayStation, and Nintendo builds themselves.
