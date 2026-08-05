@@ -27,9 +27,21 @@ Next, identify what your constraints restrict you from doing. Within the limits 
 Then, within the limits you set, ask yourself what you **_want_** to achieve.
 
 ## Draw the Timeline
-Finally, using your goals and deliverables, draw a task-by-task timeline for you and your team to follow.
+Finally, draw a timeline for you and your development team to follow. This timeline should have phases scheduled and marked with target deliverables per phase.
+
+- **Pre-Production**: design and detail your game idea
+  - _Deliverables: documentation detailing mechanics, interactivity, narrative, aesthetics, and level design_
+- **Production**: execute your designs and iterate through testing
+  - _Deliverables: alpha builds, beta builds, gamma builds, and a final release candidate_
+- **Pre-Launch**: market your game to attract an audience
+  - _Deliverables: ads and storefront with banners, trailers, a demo, and feedback forums_
+- **Launch**: finalise build based on feedback, and release
+  - _Deliverables: a master build and store deployment_
+
+There's also an indefinite **Post-Launch** phase to monitor and patch the game for any missed faults or platform advancements.
 
 ---
 
 |**<<<**|**<**|**>**|**>>>**|
 |-|-|-|-|
+| _[PHASE 0 - Preparation](sections/0-preparation)_ | _[PHASE 0 - Preparation](sections/0-preparation)_ | _[P0-STEP 2 : Market Conditions](sections/0-preparation/2-market-conditions.md)_ | _[PHASE 1 - Pre-Production](https://github.com/robiin-dv/game-design-theory/tree/master/sections/1-pre-production)_ |
