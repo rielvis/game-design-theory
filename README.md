@@ -9,7 +9,7 @@ I will continue to update and refine this guide with further practice, feedback,
 ### [P0 - Preparation](sections/0-preparation)
 | Section | Description | Status |
 |---------|-------------|--------|
-| [Production Scope](sections/0-preparation/1-production-scope.md) | Setting the production boundaries and expectations of your game. | ⏳ |
+| [Production Scope](sections/0-preparation/1-production-scope.md) | Setting the production boundaries and expectations of your game. | ✅ |
 | [Market Conditions](sections/0-preparation/2-market-conditions.md) | Knowing your customer-base, the market, and your monetisation strategy. | ⏳ |
 
 ### [P1 - Pre-Production](sections/1-pre-production)
