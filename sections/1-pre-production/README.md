@@ -14,13 +14,16 @@ _Each aspect of design should be documented independently but referentially to e
 
 ---
 
-Throughout your designs, consider the following:
-- Is the game appealing?
-  - Is it charming?
-  - Is it fantastical?
-  - Is it comprehensible?
-- Is the game fun?
-- Is the game within scope?
+Throughout your designs, consider whether your game is:
+- **Appealing**: Will your game attract players?
+- **Enjoyable**: Will your game sustain players?
+- **Feasible**: Will your game be achieved?
+- **Monetisable**: Will your game make money?
+
+There are three things that determine how **appealing** your game is:
+- **Literacy**: Do players understand what the game is?
+- **Beauty**: Do players find the game aesthetically pleasing?
+- **Fantasy**: Do players feel the game will satisfy a dream or desire?
 
 Source: [Jonas Tyroller (02/2024) 'This Problem Changes Your Perspective On Game Dev'](https://www.youtube.com/watch?v=o5K0uqhxgsE)
 
