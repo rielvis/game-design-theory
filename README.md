@@ -28,7 +28,7 @@ I will continue to update and refine this guide with further practice, feedback,
 
 ## License & Content Notice
 
-This compilation belongs exclusively to G. Robin Davis and is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
+This compilation belongs exclusively to Robin Davis and is licensed under a [Creative Commons Attribution-NonCommercial-NoDerivatives 4.0 International License][cc-by-nc-nd].
 
 [![CC BY-NC-ND 4.0][cc-by-nc-nd-shield]][cc-by-nc-nd]
 
