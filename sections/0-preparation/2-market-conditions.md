@@ -93,6 +93,8 @@ Advertisement is typically shared via:
 
 Your advertisements need to communicate the appeal and attractiveness of your game.
 
+...
+
 Keep track of where your audience is often found online, and what they would find appealing in a game. Knowing these things can inform how your advertisements are written and formatted.
 
 ## Platforming & Distribution Channels
