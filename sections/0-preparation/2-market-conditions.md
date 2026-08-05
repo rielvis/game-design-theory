@@ -1,3 +1,4 @@
+
 # P0-STEP 2 : Market Conditions
 The market conditions regard our audience and genre-space, and will inform how the game will be advertised, platformed, monetised, and monitored. Legal and ethical considerations should be made here as well.
 
@@ -93,7 +94,7 @@ Advertisement is typically shared via:
 
 Your advertisements need to communicate the appeal and attractiveness of your game.
 
-...
+!...!
 
 Keep track of where your audience is often found online, and what they would find appealing in a game. Knowing these things can inform how your advertisements are written and formatted.
 
@@ -145,7 +146,7 @@ _**GAMERS ARE SICK OF NETLOCKED GAMES!**_
 Tracking certain activities in your game can help you understand player behaviour to inform your designs for future games.
 
 ## Income & Monetisation Strategy
-...
+!...!
 
 ## Acquisition Costs & Lifetime Value
 Previously outlined under [_Money Constraints & Requirements_](1-production-scope.md#money-constraints--requirements), your game is going to cost money and you’re often expected to make back those expenses via sales. To do that, you need to acquire customers which is done via marketing, but marketing itself also costs money.
