@@ -15,12 +15,12 @@ _Each aspect of design should be documented independently but referentially to e
 ---
 
 Throughout your designs, consider the following:
-- Is the game appealing? _(will it attract players)_
+- Is the game appealing?
   - Is it charming?
   - Is it fantastical?
   - Is it comprehensible?
-- Is the game fun? _(will it sustain players)_
-- Is the game within scope? _(can you achieve it)_
+- Is the game fun?
+- Is the game within scope?
 
 Source: [Jonas Tyroller (02/2024) 'This Problem Changes Your Perspective On Game Dev'](https://www.youtube.com/watch?v=o5K0uqhxgsE)
 
