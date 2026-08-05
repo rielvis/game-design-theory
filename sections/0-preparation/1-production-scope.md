@@ -44,4 +44,4 @@ There's also an indefinite **Post-Launch** phase to monitor and patch the game f
 
 |**<<<**|**<**|**>**|**>>>**|
 |-|-|-|-|
-| _[PHASE 0 - Preparation](README.md)_ | _[PHASE 0 - Preparation](README.md)_ | _[P0-STEP 2 : Market Conditions](2-market-conditions.md)_ | _[PHASE 1 - Pre-Production](https://github.com/robiin-dv/game-design-theory/tree/master/sections/1-pre-production)_ |
+| _[PHASE 0 - Preparation](README.md)_ | _[PHASE 0 - Preparation](README.md)_ | _[P0-STEP 2 : Market Conditions](2-market-conditions.md)_ | _[PHASE 1 - Pre-Production](https://github.com/rielvis/game-design-theory/tree/master/sections/1-pre-production)_ |
