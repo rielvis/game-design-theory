@@ -142,6 +142,9 @@ _**GAMERS ARE SICK OF NETLOCKED GAMES!**_
 
 Tracking certain activities in your game can help you understand player behaviour to inform your designs for future games.
 
+## Income & Monetisation Strategy
+...
+
 ## Acquisition Costs & Lifetime Value
 Previously outlined under [_Money Constraints & Requirements_](1-production-scope.md#money-constraints--requirements), your game is going to cost money and you’re often expected to make back those expenses via sales. To do that, you need to acquire customers which is done via marketing, but marketing itself also costs money.
 
