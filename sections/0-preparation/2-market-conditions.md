@@ -143,7 +143,7 @@ _**GAMERS ARE SICK OF NETLOCKED GAMES!**_
 Tracking certain activities in your game can help you understand player behaviour to inform your designs for future games.
 
 ## Acquisition Costs & Lifetime Value
-Previously outlined under Money Constraints & Requirements, your game is going to cost money and you’re often expected to make back those expenses via sales. To do that, you need to acquire customers which is done via marketing, but marketing itself also costs money.
+Previously outlined under [_Money Constraints & Requirements_](1-production-scope.md#money-constraints--requirements), your game is going to cost money and you’re often expected to make back those expenses via sales. To do that, you need to acquire customers which is done via marketing, but marketing itself also costs money.
 
 In business, we have customer acquisition cost which is the amount of money a business spends in order to get a customer to purchase its products or services. Abbreviated as CAC, often within a specific timeframe, it is equal to the total cost of sales and marketing divided by the total number of customers or purchases acquired.
 
