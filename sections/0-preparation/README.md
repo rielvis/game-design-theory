@@ -13,4 +13,4 @@ _**For casual solo projects, this may be skipped. But for those looking to effec
 
 |**>**|**>>>**|
 |-|-|
-| _[P0-STEP 1 : Production Scope](1-production-scope.md)_ | _[PHASE 1 - Pre-Production](https://github.com/robiin-dv/game-design-theory/tree/master/sections/1-pre-production)_ |
+| _[P0-STEP 1 : Production Scope](1-production-scope.md)_ | _[PHASE 1 - Pre-Production](https://github.com/rielvis/game-design-theory/tree/master/sections/1-pre-production)_ |
