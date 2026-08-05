@@ -8,9 +8,9 @@ Deliverable for this phase is a **_game design document_**, composed of the foll
 - [**Aesthetics Design**](4-aesthetics-design.md)
 - [**Level Design**](5-level-design.md)
 
-_Each aspect of design should be documented independently but referentially to each other._
-
 > _M.I.N.A.L._
+> 
+> _Each aspect of design should be documented independently but referentially to each other._
 
 ---
 
