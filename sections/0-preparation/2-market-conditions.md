@@ -150,13 +150,13 @@ Tracking certain activities in your game can help you understand player behaviou
 ## Acquisition Costs & Lifetime Value
 Previously outlined under [_Money Constraints & Requirements_](1-production-scope.md#money-constraints--requirements), your game is going to cost money and you’re often expected to make back those expenses via sales. To do that, you need to acquire customers which is done via marketing, but marketing itself also costs money.
 
-In business, we have customer acquisition cost which is the amount of money a business spends in order to get a customer to purchase its products or services. Abbreviated as CAC, often within a specific timeframe, it is equal to the total cost of sales and marketing divided by the total number of customers or purchases acquired.
+In business, we have **customer acquisition costs** which is the amount of money a business spends in order to get a customer to purchase its products or services. Abbreviated as CAC, often within a specific timeframe, it is equal to the total cost of sales and marketing divided by the total number of customers or purchases acquired.
 
 > _CAC = marketing costs ÷ number of customers_
 
 As we’re trying to make back the cost, we need a strategy to monetise our game. Video games can be monetised with in-game ads, in-game purchases, or as an upfront cost to own a copy or license to play the game.
 
-In business, we have customer lifetime value which is the amount of revenue a customer will bring us for as long as they are a customer. Products with ongoing purchase opportunities like in-game ads and purchases can have a variably high or low CLV depending on how well they can keep a customer, however products with an upfront price and no further monetisation methods have a guaranteed CLV per acquired customer.
+In business, we have **customer lifetime value** which is the amount of revenue a customer will bring us for as long as they are a customer. Products with ongoing purchase opportunities like in-game ads and purchases can have a variably high or low CLV depending on how well they can keep a customer, however products with an upfront price and no further monetisation methods have a guaranteed CLV per acquired customer.
 
 > _CLV = order value × number of purchases_
 
