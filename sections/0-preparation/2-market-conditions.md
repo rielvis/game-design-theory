@@ -93,20 +93,38 @@ Advertisement is typically shared via:
 
 Your advertisements need to communicate the appeal and attractiveness of your game.
 
-...
-
 Keep track of where your audience is often found online, and what they would find appealing in a game. Knowing these things can inform how your advertisements are written and formatted.
 
 ## Platforming & Distribution Channels
-Video games are possible thanks to the tech companies that build and maintain their tech ecosystems. Microsoft builds Windows & Xbox, Apple builds macOS & iOS, Google builds Android, Sony builds PlayStation, and Nintendo builds themselves.
+Video games are possible thanks to the tech and storefront companies that build and maintain their platforms. These companies are:
+- **Microsoft**: [Windows](https://www.microsoft.com/windows/) & [XBOX](https://www.xbox.com)
+- **Valve**: [Steam](https://store.steampowered.com/) & [Linux (via but not limited to SteamOS)](https://store.steampowered.com/steamos/)
+- **GOG**: [GOG.com](https://www.gog.com)
+- **Epic**: [Epic Games Store](https://store.epicgames.com/)
+- **Itch**: [itch.io](https://itch.io/)
+- **Apple**: [macOS](https://www.apple.com/os/macos/)/[iOS](https://www.apple.com/os/ios/) & [App Store](https://www.apple.com/app-store/)
+- **Google**: [Android](https://www.android.com/) & [Google Play Store](https://play.google.com/store/games)
+- **Meta**: [Quest](https://www.meta.com/quest/)
+- **Sony**: [PlayStation](https://www.playstation.com)
+- **Nintendo**: [Nintendo](https://www.nintendo.com)
 
-_There are also platforms that aren’t totally OS based, like web games built to run in most web browsers, games built in fantasy consoles like PICO-8 or TIC-80, or games that are built within larger gamespace platforms like Roblox, S&box, and Fortnite._
+> _There are also platforms that are app-based rather than OS-based, like web games built to run in most web browsers, games built in fantasy consoles like [PICO-8](https://www.lexaloffle.com/pico-8.php) or [TIC-80](https://tic80.com/), or games that are built in sandbox games like [Roblox](https://about.roblox.com/), [Fortnite](https://www.fortnite.com/), and [S&box](https://sbox.game/)._
 
-The highest market-share platform (~50%) people are on is mobile, with Android making up the majority of mobile operating systems. The second highest platform (~30%) is consoles, with PlayStation dominating Nintendo and Xbox for market share. The third highest platform (~20%) is PC, with Windows being more common and supported than macOS and Linux distros. Specifically with PC, there are various storefronts including Steam, Epic, and Itch where players can purchase games.
+The platform you choose depends on where your customers are:
+- At ~50% market-share, most game marketing happens on mobile, with Android making up the majority of mobile operating systems.
+- At ~30% market share, consoles are the second-most common platform, with PlayStation dominating Nintendo and Xbox for market share.
+- At ~20% market share, PC is the third-most common platform, with Windows being more common and supported than macOS and Linux distros.
 
-Although mobile is the largest platform, there are plenty of valid reasons to prefer a different platform such as performance constraints and product associations. Mobile games run on smartphones with lower performance compared to consoles and computers, and the games often found in mobile storefronts tend to be F2P games with in-app purchases or in-game ads which may be a turn off.
+> Source: [Kevuru Games (06/2026) 'Mobile vs PC vs Console Games: Market Share Statistics in 2026'](https://kevurugames.com/blog/mobile-vs-pc-vs-console-games-market-share-statistics/)
+
+Although mobile is the largest platform, there are valid reasons to prefer it or another platform.
+- Mobile games run on smartphones with lower performance compared to consoles and computers.
+- Mobile games tend to be free-to-play with in-app purchases or in-game ads.
 
 Deciding which platforms you want to build for depends on which platform your audience tends to play on and which platform you want to associate your game with, which may then inform the interactive design of your game.
+- Mobile primarily uses **_touch_** input
+- Consoles primarily use **_gamepad_** input
+- PC primarily uses **_keyboard and mouse_** input
 
 ## Product & Audience Monitoring
 Audience monitoring is beneficial prior and during the development of your game to gauge what your players want, but it can also be helpful to monitor your game post-release. Doing this requires your game to be connected to an online service like GameAnalytics or Unity Analytics.
