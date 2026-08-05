@@ -26,9 +26,9 @@ Your skill constraints are set by the abilities or knowhow you have for a certai
 
 This guidance identifies 3 areas of skill, orchestrated by directors and producers:
 - **Designers**
-  - _Narrative (the story and theme of the characters and setting)_
   - _Mechanics (how will the game actually work internally and with players)_
-  - _Interactive (how will the player interact with the game - accessibility)_
+  - _Interactive (how will the player accessibly interact with the game)_
+  - _Narrative (story arcs and theme of the characters and setting)_
   - _Aesthetics (visual style, sound effects, and musical score)_
   - _Level (how will the player move and progress through the game)_
 - **Developers**
