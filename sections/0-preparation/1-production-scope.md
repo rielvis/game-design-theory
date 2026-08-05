@@ -54,7 +54,7 @@ Your money constraints are set by the total amount of funding you have for the d
 For larger studios with a steady flow of income, people can be internally paid throughout the development. But for smaller startup studios, payment may only come after the game releases as the product sells. 
 
 This can be remedied via:
-- **Investors**: funding from individuals or organisations who pay you to build your game in exchange for a percentage of ownership or sales.
+- **Investors**: funding from individuals or organisations who pay you in exchange for a percentage of ownership or sales.
 - **Grants**: funding from individuals or organisations with no exchange requirements.
 - **Crowdfunding**: funding from your target audience in exchange for perks and promises for and about the game.
 
