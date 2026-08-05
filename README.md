@@ -37,8 +37,6 @@ This compilation belongs exclusively to G. Robin Davis and is licensed under a [
 
 _This work is not affiliated with any organisation._
 
-_Where a concept was adopted from a third-party, a source-link to the original content is included immediately thereafter._
-
 ### AI Notice
 
 *AI search engine tools (i.e. Google AI Overview) were active while searching for information.*
