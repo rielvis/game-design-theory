@@ -8,19 +8,23 @@ Deliverable for this step is a **market conditions report** detailing as such.
 ## Audience & Community Engagement
 Your audience is your customer base. From a purely money-extractive perspective, they are the ones you want to convince to pay for a copy of your game and any adjacent merchandise. 
 
-But they’re more than just a source of income. They are people, individuals, who want to not only enjoy what you create for them, but also feel respected and supported in the communities that form around your game. They want to feel heard and seen by those who create the things they love. Through those feelings, a rapport is built to better guarantee their financial support.
+**_THEY ARE MORE THAN THAT!_**
 
-Keeping track of your target audience involves gauging how they feel about you, but it also involves knowing about their usual thoughts and behaviours. Only considering spending habits can help, but knowing more about their day-to-day lives and feelings on certain topics can help inform how you actually design your games.
+They are individuals like ourselves who want to not only enjoy what you create for them, but also feel _respected and supported_ in the communities that form around your game, and by those who create the game they love. 
+
+> _This is a B2C (business to consumer) relationship. A rapport needs to be built to better guarantee their financial support._
+
+Keeping track of your target audience involves gauging how they feel about your business, but it also involves knowing about who they are personally.
 
 ## Genre & Audience Expectation
 Regardless of how your audience feels about you, your game, or the surrounding community, they have preconceptions of what to expect from your game based on similar titles. These preconceptions are the genre standards your game is subject to.
 
-Different genres cater to different audiences based on their own preferences for play, and players looking for new games almost always search via games tagged as their preferred genre.
+> _Different genres cater to different audiences based on their own preferences for play._
 
 Keeping track of genre standards involves knowing what different games within a genre have in common and why players enjoy those common features.
 
 ## Legal & Ethical Compliance
-Markets and media are regulated all over the world. Countries will have their own rules and regulations due to having their own jurisdictions to enforce said rules, and it is important to keep those in mind when making a game you want to sell.
+Markets and media are regulated all over the world. Countries via local jurisdiction will have their own rules and regulations for economic activity.
 
 In the UK, there are plenty of laws governing things like data privacy, online gambling, copyright licensing, and online safety. We also have organisations like PEGI that give age-ratings to games so parents know whether a game is suitable for their children, as well as ASA for advertisement ethics and Ofcom for telecommunications compliance.
 
