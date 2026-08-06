@@ -39,4 +39,4 @@ Your **design pillars** are the core ideas and concepts that describe the identi
 ---
 |**<<<**|**<**|**>**|**>>>**|
 |-|-|-|-|
-| _[PHASE 0 - Preparation](https://github.com/rielvis/game-design-theory/tree/master/sections/0-preparation)_ | _[P0-STEP 2 : Market Conditions](https://github.com/rielvis/game-design-theory/tree/master/sections/0-preparation/2-market-conditions.md)_ | _[P1-STEP 1 : Mechanics Design](1-mechanics-design.md)_ | _[PHASE 2 : Production]()_ |
+| _[PHASE 0 - Preparation](../0-preparation)_ | _[P0-STEP 2 : Market Conditions](../0-preparation/2-market-conditions.md)_ | _[P1-STEP 1 : Mechanics Design](1-mechanics-design.md)_ | _[PHASE 2 : Production]()_ |
