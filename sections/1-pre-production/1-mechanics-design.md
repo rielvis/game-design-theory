@@ -35,8 +35,14 @@ Generally, in the context of game mechanics, we want the player to reach a flow 
 
 If the player is not skilled enough with the mechanics to overcome the challenges in the game, they will feel anxious and incapable. If the player is overly skilled to the point of not feeling challenged, they will feel bored and disinterested. These are the emotions you want to purposefully avoid.
 
+> _As a game mechanics designer, your goal is to balance the game’s difficulty with the player’s skill. Doing this requires knowing how quickly a player may progress in skill and pacing the increase in challenge proportionately._
+
 ## Noun-Verb Diagrams
-...
+Noun-verb diagrams are a simple diagram to visually track how the gameplay systems and objects/entities interact with each other and the players.
+
+![noun-verb-diagram-eg](/images/noun-verb-diagram-eg.jpg)
+
+> _This can be used to make your **Mechanical Systems Blueprint**._
 
 ---
 
