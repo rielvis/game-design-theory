@@ -2,7 +2,7 @@
 # P0-STEP 2 : Market Conditions
 The market conditions regard our audience and genre-space, and will inform how the game will be advertised, platformed, monetised, and monitored. Legal and ethical considerations should be made here as well.
 
-Deliverable for this step is a **market conditions report** detailing as such.
+Initial deliverable for this step is a **market conditions report** detailing as such, with ongoing deliverables being regular **community audits**, **legal reviews**, **advertising material**, **data compilations**, and **financial reports**. 
 
 ---
 
@@ -99,6 +99,15 @@ Advertisement is typically shared via:
 
 Game advertisements tend to follow promotional methods used by movies, and are typically either trailers or posters.
 
+The dimensions for your ad depend on the platform and its content conventions.
+- **Traditional Movie Poster**: 2:3 (40" x 60")
+- **Square Post**: 1:1 (1080px x 1080px)
+- **Common Video**: 16:9 (1920px x 1080px)
+- **Basic Rectangle**: 6:5 (300px x 250px)
+- **Leaderboard**: 6:1 (300px x 50x)
+
+> Source: [ZoomInfo (01/2026) 'Standard Banner Ad Sizes for 2026: A Guide for Display Advertising'](https://pipeline.zoominfo.com/marketing/standard-banner-ad-sizes-guide)
+
 For game trailers, they have four parts:
 - **The Cold Open**: short and entertaining scene to capture the audience's attention
 - **The Exposition**: poses questions and themes that capture the gist of what the game is about
@@ -109,8 +118,10 @@ For game trailers, they have four parts:
 > Source: [Derek Lieu (09/2017) 'Basic Trailer Story Structure'](https://www.derek-lieu.com/blog/2017/9/10/the-matrix-is-a-trailer-editors-dream)
 
 For game posters, they are composed of the following:
-- **Dimensions**
-- ****
+- **Game Title**
+- **Developer & Publisher**
+- **Game Platforms**
+- **Eye-Catching Visuals w/ Clear Visual Hierarchy**
 
 > Source: [Grace Fussell (03/2023) 'Movie Poster Design 101: The Anatomy of a Movie Poster'](https://design.tutsplus.com/articles/movie-poster-design-101-the-anatomy-of-a-movie-poster--cms-35852)
 
