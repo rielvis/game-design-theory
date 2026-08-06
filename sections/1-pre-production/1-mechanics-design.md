@@ -29,7 +29,7 @@ Player emotions, an extension of dynamics, are simply how the player feels when 
 
 Generally, in the context of game mechanics, we want the player to reach a flow state while playing that balances the difficulty of the game and their skill with the game. Graphing this identifies two emotions to avoid: boredom and anxiety.
 
-![Flow-State Graph](.../images/flow-state-graph)
+![Flow-State Graph](/images/flow-state-graph)
 
 > Source: [Learning Loop 'Appropriate Challenges: The user needs appropriate challenges to remain engaged'](https://learningloop.io/plays/psychology/appropriate-challenges)
 
