@@ -12,7 +12,7 @@ Start by identifying the constraints on the technology, skills, money, and time 
 Your technical constraints are set by limitations of the tools you have to produce your game, as well as the hardware/software of the platform you intend to publish to.
 
 These limitations may regard:
-- **OS**: Windows, macOS, Linux, Xbox, PlayStation, Nintendo, etc
+- **Platform**: which digital platforms you can build for
 - **Storage**: how much space is available to install the game
 - **Processor**: how much processing power is available to execute the game
 - **Memory**: how much memory is available to run the game
