@@ -167,4 +167,4 @@ In order for your business to be sustainable, you want your CLV to exceed your C
 
 |**<<<**|**<**|**>**|**>>>**|
 |-|-|-|-|
-| _[PHASE 0 - Preparation](README.md)_ | _[P0-STEP 1 : Production Scope](1-production-scope.md)_ | _[PHASE 1 - Pre-Production](https://github.com/rielvis/game-design-theory/tree/master/sections/1-pre-production)_ | _[PHASE 1 - Pre-Production](https://github.com/rielvis/game-design-theory/tree/master/sections/1-pre-production)_ |
+| _[PHASE 0 - Preparation](README.md)_ | _[P0-STEP 1 : Production Scope](1-production-scope.md)_ | _[PHASE 1 - Pre-Production](../1-pre-production)_ | _[PHASE 1 - Pre-Production](../1-pre-production)_ |
