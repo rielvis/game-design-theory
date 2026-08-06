@@ -40,9 +40,11 @@ If the player is not skilled enough with the mechanics to overcome the challenge
 ## Noun-Verb Diagrams
 Noun-verb diagrams are a simple diagram to visually track how the gameplay systems and objects/entities interact with each other and the players.
 
+> _This can be used to make your **Mechanical Systems Blueprint**._
+
 ![noun-verb-diagram-eg](/images/noun-verb-diagram-eg.jpg)
 
-> _This can be used to make your **Mechanical Systems Blueprint**._
+> Source: [@LeenaVanD via Mastodon 'Here's our noun-verb diagram for Dead Static Drive's core gameplay loop'](https://peoplemaking.games/@LeenaVanD/109341406366003091)
 
 ---
 
