@@ -26,23 +26,23 @@ Your skill constraints are set by the abilities or knowhow you have for a certai
 
 This guidance identifies 3 areas of skill, orchestrated by directors and producers:
 - **Designers**
-  - _Mechanics (how will the game actually work internally and with players)_
-  - _Interactive (how will the player accessibly interact with the game)_
-  - _Narrative (story arcs and theme of the characters and setting)_
-  - _Aesthetics (visual style, sound effects, and musical score)_
-  - _Level (how will the player move and progress through the game)_
+  - _Mechanics: How will the game actually work internally and with players?_
+  - _Interactive: How will the player accessibly interact with the game?_
+  - _Narrative: What story is being told by your game?_
+  - _Aesthetics: What does your game look and sound like?_
+  - _Level: How will the player move through the game?_
 - **Developers**
-  - _System Coding (gameplay and media integration)_
-  - _Visual Assets (sprites, models, textures, UI)_
-  - _Audio Assets (music and sfx)_
-  - _QA Tester (playtesting and quality assurance)_
+  - _System Coding: gameplay and media integration_
+  - _Visual Assets: sprites, models, textures, and UI_
+  - _Audio Assets: music and sfx_
+  - _QA Testing: playtesting and quality assurance_
 - **Distributors**
-  - _Research (what does the market look like)_
-  - _Advertisement (showcase the game to audience)_
-  - _Monetisation (price the game attractively AND sustainably)_
-  - _Platforming (where will we publish our game)_
-  - _Community Management (tracking community behaviour and opinion)_
-  - _Product Management (tracking bugs to patch in product)_
+  - _Research: What does the current market look like?_
+  - _Advertisement: How will you showcase the game?_
+  - _Monetisation: How will you price the game attractively and sustainably?_
+  - _Platforming: Where will you publish the game?_
+  - _Community Management: How will you keep track of community behaviour and opinion?_
+  - _Product Management: How will you keep track of bugs to patch?_
 
 For larger studios, more people can be assigned to each role. But for smaller studios, multiple roles may need to be merged or filled in by a single person.
 
@@ -54,9 +54,9 @@ Your money constraints are set by the total amount of funding you have for the d
 For larger studios with a steady flow of income, people can be internally paid throughout the development. But for smaller startup studios, payment may only come after the game releases as the product sells. 
 
 This can be remedied via:
-- **Investors**: funding from individuals or organisations who pay you in exchange for a percentage of ownership or sales.
-- **Grants**: funding from individuals or organisations with no exchange requirements.
-- **Crowdfunding**: funding from your target audience in exchange for perks and promises for and about the game.
+- **Investors**: Funding from individuals or organisations who pay you in exchange for a percentage of ownership or sales.
+- **Grants**: Funding from individuals or organisations with no exchange requirements.
+- **Crowdfunding**: Funding from your target audience in exchange for perks and promises for and about the game.
 
 ### _Time Constraints & Requirements_
 Your time constraints are set by the amount of time you have available to complete your game and bring it to market, though informed by the technology, skills, and funding you have to complete it. 
