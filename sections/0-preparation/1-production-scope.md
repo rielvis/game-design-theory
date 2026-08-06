@@ -12,12 +12,12 @@ Start by identifying the constraints on the technology, skills, money, and time 
 Your technical constraints are set by limitations of the tools you have to produce your game, as well as the hardware/software of the platform you intend to publish to.
 
 These limitations may regard:
-- **Platform**: which digital platforms you can build for
-- **Storage**: how much space is available to install the game
-- **Processor**: how much processing power is available to execute the game
-- **Memory**: how much memory is available to run the game
-- **Graphics**: how much graphical power is available to render the game
-- **Controller**: how many input variations are available to interact with the game
+- **Platform**: How many digital platforms can you build for?
+- **Storage**: How much space is available to install the game?
+- **Processor**: How much processing power is available to execute the game?
+- **Memory**: How much memory is available to run the game?
+- **Graphics**: How much graphical power is available to render the game?
+- **Controller**: How many input variations are available to interact with the game?
 
 The constraints you set here can either put a cap on how much content your game can have, or it can tell you what areas of your code need optimising in order to fit as much content as you need depending on your scope and design.
 
