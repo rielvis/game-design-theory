@@ -10,7 +10,7 @@ I will continue to update and refine this guide with further practice, feedback,
 | Section | Description | Status |
 |---------|-------------|--------|
 | [Production Scope](sections/0-preparation/1-production-scope.md) | What are your limitations and goals? | ✅ |
-| [Market Conditions](sections/0-preparation/2-market-conditions.md) | How can you put your game on the market? | ⏳ |
+| [Market Conditions](sections/0-preparation/2-market-conditions.md) | How can you put your game on the market? | ✅ |
 
 ### [P1 - Pre-Production](sections/1-pre-production)
 | Section | Description | Status |
