@@ -51,6 +51,12 @@ In cases where there is a lack of essential skills like programming, you either 
 ### _Money Constraints & Requirements_
 Your money constraints are set by the total amount of funding you have for the development of your game. Aside from the capital you already own, funding can be sourced from investors, grants, and crowdfunding campaigns.
 
+There are four main areas that require funding:
+- **Personnel**: employee salaries and outsourced labor
+- **Technology**: software licensing, hardware spend, and server costs
+- **Operations**: rent, legal, accounting, and company administration tools
+- **Marketing**: promotional spend and storefront fees
+
 For larger studios with a steady flow of income, people can be internally paid throughout the development. But for smaller startup studios, payment may only come after the game releases as the product sells. 
 
 This can be remedied via:
