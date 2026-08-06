@@ -79,6 +79,11 @@ Sources:
 ## Advertisement & Product Appeal
 In order to get your game known to your audience, you need to advertise. This involves creating various types of content to post to wherever your audience may be.
 
+Your advertisements need to communicate the appeal and attractiveness of your game, which is determined by three things:
+- **Literacy**: Do the players understand what the game is?
+- **Beauty**: Do the players find the game aesthetically pleasing?
+- **Fantasy**: Do the players feel the game will satisfy a dream or desire?
+
 Advertisement is typically shared via:
 - **Ad Networks**
   - _[Google Ads](https://business.google.com/uk/google-ads/)_
@@ -92,9 +97,22 @@ Advertisement is typically shared via:
   - _Reddit_
   - _Discord_
 
-Your advertisements need to communicate the appeal and attractiveness of your game.
+Game advertisements tend to follow promotional methods used by movies, and are typically either trailers or posters.
 
-!...!
+For game trailers, they have four parts:
+- **The Cold Open**: short and entertaining scene to capture the audience's attention
+- **The Exposition**: poses questions and themes that capture the gist of what the game is about
+- **The Escalation**: shows overall conflict but maintains secrecy to build tension without spoiling
+- **The Climax**: excites the audience with peak-energy moments from the game, ending with a title card
+- **(OPT) The Button**: a final joke, scene, reference, or answer to hook the audience again
+
+> Source: [Derek Lieu (09/2017) 'Basic Trailer Story Structure'](https://www.derek-lieu.com/blog/2017/9/10/the-matrix-is-a-trailer-editors-dream)
+
+For game posters, they are composed of the following:
+- **Dimensions**
+- ****
+
+> Source: [Grace Fussell (03/2023) 'Movie Poster Design 101: The Anatomy of a Movie Poster'](https://design.tutsplus.com/articles/movie-poster-design-101-the-anatomy-of-a-movie-poster--cms-35852)
 
 Keep track of where your audience is often found online, and what they would find appealing in a game. Knowing these things can inform how your advertisements are written and formatted.
 
