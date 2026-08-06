@@ -110,7 +110,7 @@ The dimensions for your ad depend on the platform and its content conventions.
 > Source: [ZoomInfo (01/2026) 'Standard Banner Ad Sizes for 2026: A Guide for Display Advertising'](https://pipeline.zoominfo.com/marketing/standard-banner-ad-sizes-guide)
 
 For game trailers, they have four parts:
-- **The Cold Open**: short and entertaining scene to capture the audience's attention
+- **(OPT) The Cold Open**: short and entertaining scene to capture the audience's attention
 - **The Exposition**: poses questions and themes that capture the gist of what the game is about
 - **The Escalation**: shows overall conflict but maintains secrecy to build tension without spoiling
 - **The Climax**: excites the audience with peak-energy moments from the game, ending with a title card
