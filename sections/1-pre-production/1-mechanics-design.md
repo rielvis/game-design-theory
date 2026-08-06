@@ -8,10 +8,21 @@ Deliverables for this step are:
 ---
 
 ## Mechanics & Game Systems
-...
+Game mechanics are the systems and rules that govern how the game operates in order to build the abstract illusion of gameplay being sold to the player. It describes the granular workings of the game in a network of inputs, conditions, and outputs.
+
+As the naming would suggest, game mechanic design looks at games in a purely and atomically mechanical “if-then” manner. In the same way a car mechanic looks at cars as a multitude of granular systems rather than a single vehicular unit, game mechanics have a very architectural ethic towards games.
 
 ## Dynamics & Player Motivations
-...
+Game dynamics describe how the player may behave in response to the game mechanics. Based on the information the player has about the game and what the rules allow them to do, there are certain behaviours the player may exhibit.
+
+Though, how exactly they behave depends on what motivates them to play.
+
+| Action | Social | Mastery | Achievement | Immersion | Creation |
+|-|-|-|-|-|-|
+| Destruction | Competition | Challenge | Completion | Fantasy | Design |
+| Excitement | Cooperation | Strategy | Power | Story | Discovery |
+
+> Source: [Nick Yee (12/2015) 'Gaming Motivations Group Into 3 High-Level Clusters'](https://quanticfoundry.com/2015/12/21/map-of-gaming-motivations/)
 
 ## Emotions & Flow State
 ...
