@@ -101,11 +101,11 @@ Advertisement is typically shared via:
 Game advertisements tend to follow promotional methods used by movies, and are typically either trailers or posters.
 
 The dimensions for your ad depend on the platform and its content conventions.
-- **Traditional Movie Poster**: 2:3 (40" x 60")
-- **Square Post**: 1:1 (1080px x 1080px)
-- **Common Video**: 16:9 (1920px x 1080px)
-- **Basic Rectangle**: 6:5 (300px x 250px)
-- **Leaderboard**: 6:1 (300px x 50x)
+- **Traditional Movie Poster**: 2:3 (40" × 60")
+- **Square Post**: 1:1 (1080px × 1080px)
+- **Common Video**: 16:9 (1920px × 1080px)
+- **Basic Rectangle**: 6:5 (300px × 250px)
+- **Leaderboard**: 6:1 (300px × 50x)
 
 > Source: [ZoomInfo (01/2026) 'Standard Banner Ad Sizes for 2026: A Guide for Display Advertising'](https://pipeline.zoominfo.com/marketing/standard-banner-ad-sizes-guide)
 
@@ -178,20 +178,31 @@ _**GAMERS ARE SICK OF NETLOCKED GAMES!**_
 Tracking certain activities in your game can help you understand player behaviour to inform your designs for future games, though make sure your players are aware that their play is being tracked via a privacy notice.
 
 ## Income & Monetisation Strategy
-!...!
+Your monetisation strategy is how you are going to extract revenue from your audience. The two main models are **premium (P2P)** and **freemium (F2P)**.
+- **Premium** games make money via an **upfront purchase** for a copy of the game or a digital license to download it from an online DRM (digital rights management) storefront.
+  - _A set price is a better guarantee of revenue per customer._
+  - _Publishers will engage in sales events where the game is sold at a discount to encourage more purchases than usual._
+  - _Additional revenue can be made via premium DLCs._
+- **Freemium** games make money via **in-app purchases** and/or **in-game ad revenue**.
+  - _A single player may produce money more than once._
+  - _Making the game free increases the amount of players by lowering the barrier of entry._
+
+There are ways to monetise outside of your game as well:
+- **Merchandise** can be made if your game is _"toyetic"_, meaning it can be adapted into non-game products like toys, posters, apparel, and other accessories.
+  - _If the aesthetics for your game were made by you, you can publish those as well for additional revenue via streaming platforms, soundtrack discs, and art books._
 
 ## Acquisition Costs & Lifetime Value
 Previously outlined under [_Money Constraints & Requirements_](1-production-scope.md#money-constraints--requirements), your game is going to cost money and you’re often expected to make back those expenses via sales. To do that, you need to acquire customers which is done via marketing, but marketing itself also costs money.
 
-In business, we have **customer acquisition costs** which is the amount of money a business spends in order to get a customer to purchase its products or services. Abbreviated as CAC, often within a specific timeframe, it is equal to the total cost of sales and marketing divided by the total number of customers or purchases acquired.
+**Customer Acquisition Costs (CAC)**: The amount of money a business spends in order to get a customer to purchase its products or services. Within a specific timeframe, it is equal to the total cost of sales and marketing divided by the total number of customers or purchases acquired.
 
 > _CAC = marketing costs ÷ number of customers_
 
-As we’re trying to make back the cost, we need a strategy to monetise our game. Video games can be monetised with in-game ads, in-game purchases, or as an upfront cost to own a copy or license to play the game.
+**Customer Lifetime Value (CLV)**: The amount of revenue a customer will bring us for as long as they are a customer. Within a specific timeframe, it is equal to the monetary value of a monetised event (i.e. in-app purchase or in-game ad) multiplied by the number of such events a customer will trigger for as long as they are a customer.
 
-In business, we have **customer lifetime value** which is the amount of revenue a customer will bring us for as long as they are a customer. Products with ongoing purchase opportunities like in-game ads and purchases can have a variably high or low CLV depending on how well they can keep a customer, however products with an upfront price and no further monetisation methods have a guaranteed CLV per acquired customer.
-
-> _CLV = order value × number of purchases_
+> _Premium CLV = purchase value × number of purchases_
+> 
+> _Freemium CLV = revenue per monetisable event × number of monetisable events_
 
 In order for your business to be sustainable, you want your CLV to exceed your CAC. The higher your CLV exceeds, the better.
 
