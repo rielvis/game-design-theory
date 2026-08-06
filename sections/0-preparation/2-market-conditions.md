@@ -71,10 +71,11 @@ The following organisations and acts play a role in disclosing information consu
 
 --
 
-Sources:
-- [Aubergine Legal (05/2023) 'Legal Considerations For Video Game Developers'](https://www.auberginelegal.co.uk/post/legal-considerations-for-video-game-developers)
-- [Anna Poulter-Jones (02/2026) 'How recent laws impact game design, from in-game chat to notifications'](https://www.gamesindustry.biz/how-recent-laws-impact-game-design-from-in-game-chat-to-notifications)
-- [Duncan Calow & Ally Clark (02/2025) 'Video Games: UK Government confirms it will not amend consumer law to require video game publishers to support old versions of their games'](https://www.dlapiper.com/en-us/insights/blogs/mse-today/2025/video-games-uk-government-confirms-it-will-not-amend-consumer-law)
+> Source: [Aubergine Legal (05/2023) 'Legal Considerations For Video Game Developers'](https://www.auberginelegal.co.uk/post/legal-considerations-for-video-game-developers)
+> 
+> Source: [Anna Poulter-Jones (02/2026) 'How recent laws impact game design, from in-game chat to notifications'](https://www.gamesindustry.biz/how-recent-laws-impact-game-design-from-in-game-chat-to-notifications)
+> 
+> Source: [Duncan Calow & Ally Clark (02/2025) 'Video Games: UK Government confirms it will not amend consumer law to require video game publishers to support old versions of their games'](https://www.dlapiper.com/en-us/insights/blogs/mse-today/2025/video-games-uk-government-confirms-it-will-not-amend-consumer-law)
 
 ## Advertisement & Product Appeal
 In order to get your game known to your audience, you need to advertise. This involves creating various types of content to post to wherever your audience may be.
@@ -118,14 +119,16 @@ For game trailers, they have four parts:
 > Source: [Derek Lieu (09/2017) 'Basic Trailer Story Structure'](https://www.derek-lieu.com/blog/2017/9/10/the-matrix-is-a-trailer-editors-dream)
 
 For game posters, they are composed of the following:
-- **Game Title**
-- **Developer & Publisher**
-- **Game Platforms**
-- **Eye-Catching Visuals w/ Clear Visual Hierarchy**
+- **Game Title**: What should people call the game?
+- **Developer & Publisher**: Who made and delivered the game?
+- **Game Platforms**: Where can your audience find your game?
+- **Eye-Catching Visuals w/ Clear Visual Hierarchy**: Size, colour, contrast, alignment, repetition, proximity, emptiness, and texture.
 
 > Source: [Grace Fussell (03/2023) 'Movie Poster Design 101: The Anatomy of a Movie Poster'](https://design.tutsplus.com/articles/movie-poster-design-101-the-anatomy-of-a-movie-poster--cms-35852)
+> 
+> Source: [IxDF (08/2026) 'What is Visual Hierarchy?'](https://ixdf.org/literature/topics/visual-hierarchy)
 
-Keep track of where your audience is often found online, and what they would find appealing in a game. Knowing these things can inform how your advertisements are written and formatted.
+Keep track of where your audience is often found online, and what they would find appealing in a game. Knowing these things can inform how your advertisements are designed, delivered, and received.
 
 ## Platforming & Distribution Channels
 Video games are possible thanks to the tech and storefront companies that build and maintain their platforms. These companies are:
