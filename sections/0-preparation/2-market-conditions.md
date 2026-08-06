@@ -11,7 +11,7 @@ Your audience is your customer base. From a purely money-extractive perspective,
 
 **_THEY ARE MORE THAN THAT!_**
 
-They are individuals like ourselves who want to not only enjoy what you create for them, but also feel _respected and supported_ in the communities that form around your game, and by those who create the game they love. 
+They are individuals like ourselves who want to not only enjoy what you create for them, but also feel _respected and supported_ in the communities that form around your game, and by you who created the game they love. 
 
 > _This is a B2C (business to consumer) relationship. A rapport needs to be built to better guarantee their financial support._
 
