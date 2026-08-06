@@ -25,7 +25,7 @@ There are three things that determine how **appealing** your game is:
 - **Beauty**: Do players find the game aesthetically pleasing?
 - **Fantasy**: Do players feel the game will satisfy a dream or desire?
 
-Source: [Jonas Tyroller (02/2024) 'This Problem Changes Your Perspective On Game Dev'](https://www.youtube.com/watch?v=o5K0uqhxgsE)
+> Source: [Jonas Tyroller (02/2024) 'This Problem Changes Your Perspective On Game Dev'](https://www.youtube.com/watch?v=o5K0uqhxgsE)
 
 ---
 
