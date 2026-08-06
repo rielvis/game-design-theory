@@ -202,7 +202,7 @@ Previously outlined under [_Money Constraints & Requirements_](1-production-scop
 
 > _Premium CLV = purchase value × number of purchases_
 > 
-> _Freemium CLV = revenue per monetisable event × number of monetisable events_
+> _Freemium CLV = revenue per monetised event × number of monetised events_
 
 In order for your business to be sustainable, you want your CLV to exceed your CAC. The higher your CLV exceeds, the better.
 
