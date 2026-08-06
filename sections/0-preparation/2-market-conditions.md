@@ -198,7 +198,7 @@ Previously outlined under [_Money Constraints & Requirements_](1-production-scop
 
 > _CAC = marketing costs ÷ number of customers_
 
-**Customer Lifetime Value (CLV)**: The amount of revenue a customer will bring us for as long as they are a customer. Within a specific timeframe, it is equal to the monetary value of a monetised event (i.e. in-app purchase or in-game ad) multiplied by the number of such events a customer will trigger for as long as they are a customer.
+**Customer Lifetime Value (CLV)**: The amount of revenue a customer will bring us for as long as they are a customer. Within a specific timeframe, it is equal to the monetary value of a monetised event (i.e. in-app purchase or in-game ad) multiplied by the number of such events a customer will trigger.
 
 > _Premium CLV = purchase value × number of purchases_
 > 
