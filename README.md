@@ -9,17 +9,17 @@ I will continue to update and refine this guide with further practice, feedback,
 ### [P0 - Preparation](sections/0-preparation)
 | Section | Description | Status |
 |---------|-------------|--------|
-| [Production Scope](sections/0-preparation/1-production-scope.md) | Setting the production boundaries and expectations of your game. | ✅ |
-| [Market Conditions](sections/0-preparation/2-market-conditions.md) | Knowing your customer-base, the market, and your monetisation strategy. | ⏳ |
+| [Production Scope](sections/0-preparation/1-production-scope.md) | What are your limitations and goals? | ✅ |
+| [Market Conditions](sections/0-preparation/2-market-conditions.md) | How can you put your game on the market? | ⏳ |
 
 ### [P1 - Pre-Production](sections/1-pre-production)
 | Section | Description | Status |
 |---------|-------------|--------|
-| [Mechanics Design](sections/1-pre-production/1-mechanics-design.md) | Catering to player dynamics via game systems. | ⏳ |
-| [Narrative Design](sections/1-pre-production/2-interactive-design.md) | Worldbuilding and storytelling for your game. | ⏳ |
-| [Interactive Design](sections/1-pre-production/3-narrative-design.md) | Player interaction with the game system. | ⏳ |
-| [Aesthetics Design](sections/1-pre-production/4-aesthetics-design.md) | The graphics, sounds, and music. | ⏳ |
-| [Level Design](sections/1-pre-production/5-level-design.md) | Spatial composition to guide and pace the player. | ⏳ |
+| [Mechanics Design](sections/1-pre-production/1-mechanics-design.md) | How will the game work internally and with the players? | ⏳ |
+| [Interactive Design](sections/1-pre-production/3-narrative-design.md) | How will the player accessibly interact with the game? | ⏳ |
+| [Narrative Design](sections/1-pre-production/2-interactive-design.md) | What story is being told by your game? | ⏳ |
+| [Aesthetics Design](sections/1-pre-production/4-aesthetics-design.md) | What does your game look and sound like? | ⏳ |
+| [Level Design](sections/1-pre-production/5-level-design.md) | How will the player move through the game? | ⏳ |
 
 ### [P2 - Production]()
 ⏳
