@@ -25,7 +25,13 @@ Though, how exactly they behave depends on what motivates them to play.
 > Source: [Nick Yee (12/2015) 'Gaming Motivations Group Into 3 High-Level Clusters'](https://quanticfoundry.com/2015/12/21/map-of-gaming-motivations/)
 
 ## Emotions & Flow State
-...
+Player emotions, an extension of dynamics, are simply how the player feels when playing your game and engaging with the dynamics via the mechanics. Your mechanics should satisfy your players' motivations, but they should just as importantly, if not more importantly, avoid certain feelings.
+
+Generally, in the context of game mechanics, we want the player to reach a flow state while playing that balances the difficulty of the game and their skill with the game. Graphing this identifies two emotions to avoid: boredom and anxiety.
+
+![Flow-State Graph](images/flow-state-graph)
+
+> Source: [Learning Loop 'Appropriate Challenges: The user needs appropriate challenges to remain engaged'](https://learningloop.io/plays/psychology/appropriate-challenges)
 
 ## Noun-Verb Diagrams
 ...
