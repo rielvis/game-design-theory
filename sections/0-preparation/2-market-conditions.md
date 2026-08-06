@@ -91,12 +91,12 @@ Advertisement is typically shared via:
   - _[Meta Ads](https://www.facebook.com/business/ads)_
   - _[Microsoft Advertising](https://ads.microsoft.com/)_
 - **Social Media**
-  - _YouTube_
-  - _Instagram_
-  - _TikTok_
-  - _Bluesky_
-  - _Reddit_
-  - _Discord_
+  - _[YouTube](https://www.youtube.com/)_
+  - _[Instagram](https://www.instagram.com/)_
+  - _[TikTok](https://www.tiktok.com/)_
+  - _[Bluesky](https://bsky.app/)_
+  - _[Reddit](https://www.reddit.com/)_
+  - _[Discord](https://discord.com/)_
 
 Game advertisements tend to follow promotional methods used by movies, and are typically either trailers or posters.
 
@@ -175,7 +175,7 @@ _**DO NOT PREVENT YOUR GAME FROM RUNNING WITHOUT INTERNET!**_
 
 _**GAMERS ARE SICK OF NETLOCKED GAMES!**_
 
-Tracking certain activities in your game can help you understand player behaviour to inform your designs for future games.
+Tracking certain activities in your game can help you understand player behaviour to inform your designs for future games, though make sure your players are aware that their play is being tracked via a privacy notice.
 
 ## Income & Monetisation Strategy
 !...!
