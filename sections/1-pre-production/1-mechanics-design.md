@@ -3,7 +3,7 @@ The mechanics design of your GDD is the detailing how the game works as a system
 
 Deliverables for this step are:
 - _Game Dynamics Overview w/ Motivation & Flow-State Considerations_
-- _Mechanical Systems Blueprint (according to 'Game Dynamics Specification')_
+- _Mechanical Systems Blueprint (according to game dynamics specifications)_
 
 ## Mechanics & Game Systems
 ...
