@@ -1,7 +1,7 @@
 # PHASE 1 - Pre-Production
 Once your scope and marketing is established, you can begin documenting your design.
 
-Deliverable for this phase is a **_game design document_**, composed of the following:
+Deliverable for this phase is a **_game design document (GDD)_**, composed of the following:
 - [**Mechanics Design**](1-mechanics-design.md)
 - [**Interactive Design**](2-interactive-design.md)
 - [**Narrative Design**](3-narrative-design.md)
