@@ -16,8 +16,8 @@ I will continue to update and refine this guide with further practice, feedback,
 | Section | Description | Status |
 |---------|-------------|--------|
 | [Mechanics Design](sections/1-pre-production/1-mechanics-design.md) | How will the game work internally and with the players? | ✅ |
-| [Interactive Design](sections/1-pre-production/3-narrative-design.md) | How will the player accessibly interact with the game? | ⏳ |
-| [Narrative Design](sections/1-pre-production/2-interactive-design.md) | What story is being told by your game? | ⏳ |
+| [Interactive Design](sections/1-pre-production/1-interactive-design.md) | How will the player accessibly interact with the game? | ⏳ |
+| [Narrative Design](sections/1-pre-production/3-narrative-design.md) | What story is being told by your game? | ⏳ |
 | [Aesthetics Design](sections/1-pre-production/4-aesthetics-design.md) | What does your game look and sound like? | ⏳ |
 | [Level Design](sections/1-pre-production/5-level-design.md) | How will the player move through the game? | ⏳ |
 
