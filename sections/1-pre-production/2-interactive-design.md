@@ -19,7 +19,27 @@ To remedy this, companies create "adaptive" controllers in order to map complex 
 Whether it is due to age, inexperience, or a physical disability, the capability of your players is important to consider to make your game accessible to them.
 
 ## Input & Control Schemes
-...
+There are two primary control schemes in flat-screen gaming: **_keyboard-mouse_** and **_gamepad_**.
+
+> _Virtual-reality uses a variation of gamepad input with the addition of motion controls._
+
+### **_Keyboard & Mouse_**
+
+Keyboard-mouse control schemes use the traditional desktop keyboard and mouse, each controlled by one hand. 
+- The keyboard has a button for essentially the entire ASCII set of characters.
+- The mouse commonly has a left button, a right button, and the scroll wheel.
+
+### **_Gamepad_**
+
+Gamepad control schemes use handheld controllers standardly equipped with:
+- two joysticks
+- four face buttons
+- four directional buttons
+- two bumpers
+- two triggers
+- two menu buttons.
+
+Some gamepads may have additional buttons around the grips of the controllers for additional input options.
 
 ## Output & Feedback Channels
 ...
