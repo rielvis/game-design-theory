@@ -33,11 +33,11 @@ There are two primary control schemes in flat-screen gaming: **_keyboard-mouse_*
 
 **Gamepad** control schemes use handheld controllers equipped with various buttons, sticks, and other sensors.
 
-
+![Steam Controller](/images/SteamControllerInputs.jpg)
 
 The standard gamepad layout is used for flat-screen games, but it is also the basis for virtual-reality controllers.
 
-
+![Steam Frame Controller](/images/SteamFrameInput.jpg)
 
 ### **_Common Control Schemes_**
 
