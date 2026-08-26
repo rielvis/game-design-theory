@@ -61,25 +61,17 @@ There are three feedback channels used in gaming: video, audio, and haptics.
 
 **Video** feedback uses a monitor or some display to deliver visual feedback and information to the player. 
 
-![Monitor](/images/generic_monitor.jpg)
-![VR Optics](/images/vr_optics.jpg)
-
 This feedback channel can be used to display text, shapes, and colours. Flatscreen games use traditional monitors whereas virtual reality games use two high-res displays, one per eye, within a headworn device.
 
 ### **_Audio_**
 
 **Audio** feedback uses speakers or headphones to deliver audial feedback and information to the player.
 
-![Speakers](/images/generic_speakers.jpeg)
-![Headphones](/images/generic_headphones.jpg)
-
 This feedback channel can be used to play sound effects and music depending on the game state and player activity. Both flatscreen and virtual reality games may use spatial audio to better immerse the player.
 
 ### **_Haptic_**
 
-**Haptic** feedback uses vibrations within a gamepad controller to deliver information via touch to the player. 
-
-![SC Rumble](/images/steamcontrollerrumble.jpg)
+**Haptic** feedback uses vibrations within a gamepad controller to deliver information via touch to the player.
 
 Any pattern of frequency or intensity can be used, much like audio, to signal player activity and game state for better immersion.
 
