@@ -55,6 +55,8 @@ For example, in 3D games where the player can walk, look, jump, and attack:
 Again, this depends on your audience and their expectations for interactivity. Some inputs may be different depending on their expectations and how you as the designer decide to organise your inputs.
 
 ## Output & Feedback Channels
+The output of your game needs to inform the player of what state the game is in mechanically, as well as the activity of the player for the sake of media immersion.
+
 There are three feedback channels used in gaming: video, audio, and haptics.
 
 ### **_Video_**
@@ -74,8 +76,6 @@ This feedback channel can be used to play sound effects and music depending on t
 **Haptic** feedback uses vibrations within a gamepad controller to deliver information via touch to the player.
 
 Any pattern of frequency or intensity can be used, much like audio, to signal player activity and game state for better immersion.
-
-The output of your game needs to inform the player of what state the game is in mechanically, as well as the activity of the player for the sake of media immersion.
 
 
 ---
