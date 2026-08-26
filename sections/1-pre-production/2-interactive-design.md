@@ -25,19 +25,21 @@ There are two primary control schemes in flat-screen gaming: **_keyboard-mouse_*
 
 ### **_Keyboard & Mouse_**
 
-Keyboard-mouse control schemes use the traditional desktop keyboard and mouse, each controlled by one hand. 
+**Keyboard-mouse** control schemes use the traditional desktop keyboard and mouse, each controlled by one hand. 
 - The keyboard has a button for essentially the entire ASCII set of characters.
 - The mouse commonly has a left button, a right button, and the scroll wheel.
 
+![Keyboard Mouse](/images/generic_kbm.jpg)
+
 ### **_Gamepad_**
 
-Gamepad control schemes use handheld controllers equipped with various buttons, sticks, and other sensors.
+**Gamepad** control schemes use handheld controllers equipped with various buttons, sticks, and other sensors.
 
 ![Steam Controller](/images/SteamControllerInputs.jpg)
 
-> _The standard gamepad layout is used for flat-screen games, but it is also the basis for virtual-reality controllers._
->
-> ![Steam Frame Controller](/images/SteamFrameInput.jpg)
+The standard gamepad layout is used for flat-screen games, but it is also the basis for virtual-reality controllers.
+
+![Steam Frame Controller](/images/SteamFrameInput.jpg)
 
 ### **_Common Control Schemes_**
 
@@ -53,6 +55,35 @@ For example, in 3D games where the player can walk, look, jump, and attack:
 Again, this depends on your audience and their expectations for interactivity. Some inputs may be different depending on their expectations and how you as the designer decide to organise your inputs.
 
 ## Output & Feedback Channels
-...
+There are three feedback channels used in gaming: video, audio, and haptics.
+
+### **_Video_**
+
+**Video** feedback uses a monitor or some display to deliver visual feedback and information to the player. 
+
+![Monitor](/images/generic_monitor.jpg)
+![VR Optics](/images/vr_optics.jpg)
+
+This feedback channel can be used to display text, shapes, and colours. Flatscreen games use traditional monitors whereas virtual reality games use two high-res displays, one per eye, within a headworn device.
+
+### **_Audio_**
+
+**Audio** feedback uses speakers or headphones to deliver audial feedback and information to the player.
+
+![Speakers](/images/generic_speakers.jpeg)
+![Headphones](/images/generic_headphones.jpg)
+
+This feedback channel can be used to play sound effects and music depending on the game state and player activity. Both flatscreen and virtual reality games may use spatial audio to better immerse the player.
+
+### **_Haptic_**
+
+**Haptic** feedback uses vibrations within a gamepad controller to deliver information via touch to the player. 
+
+![SC Rumble](/images/steamcontrollerrumble.jpg)
+
+Any pattern of frequency or intensity can be used, much like audio, to signal player activity and game state for better immersion.
+
+The output of your game needs to inform the player of what state the game is in mechanically, as well as the activity of the player for the sake of media immersion.
+
 
 ---
