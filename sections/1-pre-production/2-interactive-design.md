@@ -29,8 +29,6 @@ There are two primary control schemes in flat-screen gaming: **_keyboard-mouse_*
 - The keyboard has a button for essentially the entire ASCII set of characters.
 - The mouse commonly has a left button, a right button, and the scroll wheel.
 
-![Keyboard Mouse](/images/generic_kbm.jpg)
-
 ### **_Gamepad_**
 
 **Gamepad** control schemes use handheld controllers equipped with various buttons, sticks, and other sensors.
