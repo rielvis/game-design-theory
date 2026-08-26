@@ -75,5 +75,8 @@ This feedback channel can be used to play sound effects and music depending on t
 
 Any pattern of frequency or intensity can be used, much like audio, to signal player activity and game state for better immersion.
 
-
 ---
+
+|**<<<**|**<**|**>**|**>>>**|
+|-|-|-|-|
+| _[PHASE 0 - Preparation](../0-preparation)_ | _[P1-STEP 1 : Mechanics Design](../1-pre-production/1-mechanics-design.md)_ | _[P1-STEP 3 : Narrative Design](3-narrative-design.md)_ | _[PHASE 2 : Production]()_ |
