@@ -31,15 +31,26 @@ Keyboard-mouse control schemes use the traditional desktop keyboard and mouse, e
 
 ### **_Gamepad_**
 
-Gamepad control schemes use handheld controllers standardly equipped with:
-- two joysticks
-- four face buttons
-- four directional buttons
-- two bumpers
-- two triggers
-- two menu buttons.
+Gamepad control schemes use handheld controllers equipped with various buttons, sticks, and other sensors.
 
-Some gamepads may have additional buttons around the grips of the controllers for additional input options.
+![Steam Controller](/images/SteamControllerInputs.jpg)
+
+> _The standard gamepad layout is used for flat-screen games, but it is also the basis for virtual-reality controllers._
+>
+> ![Steam Frame Controller](/images/SteamFrameInput.jpg)
+
+### **_Common Control Schemes_**
+
+Although you are free to map your in-game actions to any of the inputs on your controllers, there is a standard amongst gamers of which actions belong to which control.
+
+For example, in 3D games where the player can walk, look, jump, and attack:
+- Walking is controlled with the left thumbstick on gamepad or with "WASD" on the keyboard.
+- Looking is controlled with the right thumbstick on gamepad or with the mouse.
+- Jumping is controlled with the "A" button on gamepad or with the spacebar on keyboard.
+- Attacking is controlled with the right trigger on gamepad or with the left button on the mouse.
+
+
+Again, this depends on your audience and their expectations for interactivity. Some inputs may be different depending on their expectations and how you as the designer decide to organise your inputs.
 
 ## Output & Feedback Channels
 ...
