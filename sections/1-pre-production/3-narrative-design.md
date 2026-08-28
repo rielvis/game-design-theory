@@ -118,6 +118,8 @@ There are many ways to actually go about building your narrative from an idea to
 ...
 
 ## Writing a Narrative Screenplay
+> Source: [Film Riot (2024) 'How To Write A Screenplay (For Beginners)'](https://www.youtube.com/watch?v=0SNaOisC2II)
+
 Screenplays are used in theatre and cinema to outline events and dialogue, but they can also be used in games that are cinematic and story-driven.
 
 ---
