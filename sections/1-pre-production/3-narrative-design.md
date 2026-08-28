@@ -47,10 +47,4 @@ It is a complex web of internal reasoning.
 This is only to say how a character should react towards the external story, and that their reaction should be cohesive with their core belief and the cognitive behavioural cycle their beliefs suppose.
 
 ### _Locations & Environmental Storytelling_
-A story is also told by its environment and what the objects and activity of a space imply about past, present, or future events. 
-
-Our environments are shaped by a mix of individual and collective behaviour, which we established is a consequence of our belief-informed thoughts and feelings. Everything that happens has a precedent, and although the importance of that precedent depends on what kind of story you’re trying to tell, do consider it with some consistency within the world that the story takes place.
-
-An environment can be used to imply either a specific behavioural event, a psycho-emotional status quo, or it can be used to directly invoke a feeling in your audience regardless of the diegetics.
-
-Although an environment is shaped by the people in it, it also shapes the people in an endless cycle of influence. An environment can exist without characters, but characters cannot exist without an environment. Design your world before you design your characters so that your characters have something to trigger their thoughts, feelings, and behaviour.
+A story is also told by its environments and what the objects and activity of a space imply about past, present, or future events. 
