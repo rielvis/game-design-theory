@@ -14,27 +14,40 @@ Deliverables for this step are:
 
 The narrative of your game is the story being told through your in-game characters and locations, which may coalesce into an overall theme.
 
-### _Thematic Storytelling_
+### _Emotional Arcs & Thematic Storytelling_
+
+#### _Themes_
 The themes of your story are the ideas and concepts you convey to your players. Although different stories will have different themes, a good story should have themes that both fascinate and resonate with the audience.
 
 To find a resonating theme, it is important to pay attention to who your audience is and what resonates with them. It needs to be something that feels intrinsic and ideally subconscious about the human experience.
 
-> The reason we want to find a theme that is so deeply hidden is for the feeling we get when it is expressed beyond ourselves. 
+> _The reason we want to find a theme that is so deeply hidden is for the feeling we get when it is expressed beyond ourselves._
 >
-> We may feel a lot of our personal experiences are unique to ourselves because we only ever feel our own experiences. But when something we feel so internally is found externally, it can trigger feelings of surprise and excitement. It validates who we are through similarity, and it may also quell feelings of loneliness if the topic is not well represented in media.
+> _We may feel a lot of our personal experiences are unique to ourselves because we only ever feel our own experiences. But when something we feel so internally is found externally, it can trigger feelings of surprise and excitement. It validates who we are through similarity, and it may also quell feelings of loneliness if the topic is not well represented in media._
 >
-> Theming is important and powerful!
+> _Theming is important and powerful!_
+
+#### _Emotions_
+The emotional arc - also known as the story arc - is the rise and fall of intensity throughout the narrative.
+
+It outlines how the emotional baseline of a story is established, built-up, climaxed, broken-down, and resolved. It is a measure of how the protagonist values their situation, positively or negatively, over the course of the story.
+
+In the example below, the higher the line goes means the higher the tension in the story is. The lower it goes, the lower the tension.
+
+![Story Arc](/images/StoryArc.png)
+
+> _Not every story will follow the same trajectory of intensity. Different stories may start, rise, fall, and end at different rates and levels of intensity._
 
 ### _Characters & Psychoemotional Storytelling_
 A story can be told through the experience of a character and their journey from who they were to who they will become. 
 
 Although you may detail a character physically and socially, characters should start with some ailment and unmet desire, along with a misconception that may distort the actuality of their ailment. 
 
-> For example, a character that is depressed about the loss of their spouse (ailment) and wishes to be loved again (unmet desire), but believes the only way to be loved again is to resurrect their spouse (misconception).
+> _For example, a character that is depressed about the loss of their spouse (ailment) and wishes to be loved again (unmet desire), but believes the only way to be loved again is to resurrect their spouse (misconception)._
 
 Their story is driven by their goal to cure or satisfy that which ails them despite their misconception. How their story ends depends on their reaction to facing a truth which contradicts the lie that drove them to seek their supposed cure.
 
-> Our example character may realise they cannot bring back their spouse (the truth). Do they accept this and find love elsewhere, or do they spiral into anger, sadness, and denial?
+> _Our example character may realise they cannot bring back their spouse (the truth). Do they accept this and find love elsewhere, or do they spiral into anger, sadness, and denial?_
 
 You are basically trapping them in a negative cognitive-behavioural cycle. As expressed in cognitive-behavioural therapy, thoughts drive feelings, which drive behaviours, which reinforce thoughts. What we are doing here is planting a thought or feeling that drives them to behave detrimentally, until the climax of our story where we break the cycle.
 
@@ -44,7 +57,7 @@ You are basically trapping them in a negative cognitive-behavioural cycle. As ex
 
 Each character’s misconception is a distorted core belief. That core belief informs how they mentally react to external events, which triggers an emotional response. That emotional response is what drives their behavior to pursue their goal of being cured or satisfied from their ailment.
 
-> Our example character's misconception is that bringing back their dead spouse will cure them of their ailment or unmet desire, which is to feel loved.
+> _Our example character's misconception is that bringing back their dead spouse will cure them of their ailment or unmet desire, which is to feel loved._
 
 Furthermore, a character may have three types of core beliefs: a belief of the self, a belief of others, and a belief of the world. All of these are influential to their thoughts, feelings, and behaviour. Some or all may be distorted, and a character may have multiple beliefs, contradictory or cohesive, of the self, the world, and others.
 
@@ -64,3 +77,7 @@ Storytelling this way forces the audience to think and imagine events that are n
 > Source: [Bart Stuart (2015) 'Environmental Storytelling'](https://www.gamedeveloper.com/design/environmental-storytelling)
 
 This is different to the _setting_ of a story, which is a more surface-level aspect of your environment. The setting of your story is the where and when your characters exist, and that informs both the culture, technology, and aesthetics of your story's world.
+
+> _The setting of Cyberpunk 2077 is a futuristic cybernetic city in the year 2077, but there are many different environmental stories being told within and around the city._
+
+## Techniques for Storytelling
