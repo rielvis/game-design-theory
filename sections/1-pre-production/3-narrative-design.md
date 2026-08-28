@@ -44,7 +44,7 @@ It is a complex web of internal reasoning.
 
 > Source: [J. S. Beck (2020) 'Cognitive Behavior Therapy: Basics and Beyond'](https://www.guilford.com/books/Cognitive-Behavior-Therapy/Judith-Beck/9781462544196?srsltid=AfmBOoq0S93UgWbYkfRhutc_QWYO8qSnB0Or_4lVksqH9KgILUyfw5-u)
 
-This is only to say how a character should react towards the external story, and that their reaction should be cohesive with their core belief and the cognitive behavioural cycle their beliefs suppose. Furthermore, the characters are the medium through which the audience feels the story.
+This is only to say how a character should react towards the external story, and that their reaction should be cohesive with their core belief and the cognitive behavioural cycle their beliefs suppose.
 
 ### _Locations & Environmental Storytelling_
 ...
