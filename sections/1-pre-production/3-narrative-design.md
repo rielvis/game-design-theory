@@ -34,18 +34,17 @@ Thoughts drive feelings, which drive behaviours, which reinforce thoughts.
 
 ![CBT Cycle](/images/CBT-cycle.png)
 
-> Source: [Skyland Trail '4 Differences Between CBT and DBT and How to Tell Which is Right for You'](https://www.skylandtrail.org/4-differences-between-cbt-and-dbt-and-how-to-tell-which-is-right-for-you/)
+> Image Source: [Skyland Trail '4 Differences Between CBT and DBT and How to Tell Which is Right for You'](https://www.skylandtrail.org/4-differences-between-cbt-and-dbt-and-how-to-tell-which-is-right-for-you/)
 
 Each character’s misconception is a distorted core belief. That core belief informs how they mentally react to external events, which triggers an emotional response. That emotional response is what drives their behavior to pursue their goal of being cured or satisfied from their ailment.
 
-Furthermore, a character is likely to have three types of core beliefs: a belief of the self, a belief of others, and a belief of the world. All of these are influential to their thoughts, feelings, and behaviour. Some or all may be distorted, and a character may have multiple beliefs, contradictory or cohesive, of the self, the world, and others.
+Furthermore, a character may have three types of core beliefs: a belief of the self, a belief of others, and a belief of the world. All of these are influential to their thoughts, feelings, and behaviour. Some or all may be distorted, and a character may have multiple beliefs, contradictory or cohesive, of the self, the world, and others.
 
 It is a complex web of internal reasoning.
 
+> Source: [J. S. Beck (2020) 'Cognitive Behavior Therapy: Basics and Beyond'](https://www.guilford.com/books/Cognitive-Behavior-Therapy/Judith-Beck/9781462544196?srsltid=AfmBOoq0S93UgWbYkfRhutc_QWYO8qSnB0Or_4lVksqH9KgILUyfw5-u)
+
 This is only to say how a character should react towards the external story, and that their reaction should be cohesive with their core belief and the cognitive behavioural cycle their beliefs suppose. Furthermore, the characters are the medium through which the audience feels the story.
-
-When detailing a character, establish as much as you can on what they believe and value about themselves, others, and the world. Use those beliefs and values as a point of reference for how they would react mentally, emotionally, and behaviourally to the events unfolding upon them.
-
 
 ### _Locations & Environmental Storytelling_
 ...
