@@ -28,9 +28,15 @@ To find a resonating theme, it is important to pay attention to who your audienc
 ### _Characters & Psychoemotional Storytelling_
 A story can be told through the experience of a character and their journey from who they were to who they will become. 
 
-Although you may detail a character physically and socially, characters should start with some ailment or unmet desire, along with a misconception that may distort the actuality of their ailment. Their story is driven by their goal to cure or satisfy that which ails them despite their misconception. How their story ends depends on their reaction to facing a truth which contradicts the lie that drove them to seek their supposed cure. How they are physically and socially should be representative of their cognitive-behavioural state.
+Although you may detail a character physically and socially, characters should start with some ailment and unmet desire, along with a misconception that may distort the actuality of their ailment. 
 
-> Thoughts drive feelings, which drive behaviours, which reinforce thoughts.
+> For example, a character that is depressed about the loss of their spouse (ailment) and wishes to be loved again (unmet desire), but believes the only way to be loved again is to resurrect their spouse (misconception).
+
+Their story is driven by their goal to cure or satisfy that which ails them despite their misconception. How their story ends depends on their reaction to facing a truth which contradicts the lie that drove them to seek their supposed cure.
+
+> Our example character may realise they cannot bring back their spouse (the truth). Do they accept this and find love elsewhere, or do they spiral into anger, sadness, and denial?
+
+You are basically trapping them in a negative cognitive-behavioural cycle. As expressed in cognitive-behavioural therapy, thoughts drive feelings, which drive behaviours, which reinforce thoughts. What we are doing here is planting a thought or feeling that drives them to behave detrimentally, until the climax of our story where we break the cycle.
 
 ![CBT Cycle](/images/CBT-cycle.png)
 
@@ -38,9 +44,11 @@ Although you may detail a character physically and socially, characters should s
 
 Each character’s misconception is a distorted core belief. That core belief informs how they mentally react to external events, which triggers an emotional response. That emotional response is what drives their behavior to pursue their goal of being cured or satisfied from their ailment.
 
+> Our example character's misconception is that bringing back their dead spouse will cure them of their ailment or unmet desire, which is to feel loved.
+
 Furthermore, a character may have three types of core beliefs: a belief of the self, a belief of others, and a belief of the world. All of these are influential to their thoughts, feelings, and behaviour. Some or all may be distorted, and a character may have multiple beliefs, contradictory or cohesive, of the self, the world, and others.
 
-It is a complex web of internal reasoning.
+It is basically a complicated web of internal reasoning.
 
 > Source: [J. S. Beck (2020) 'Cognitive Behavior Therapy: Basics and Beyond'](https://www.guilford.com/books/Cognitive-Behavior-Therapy/Judith-Beck/9781462544196?srsltid=AfmBOoq0S93UgWbYkfRhutc_QWYO8qSnB0Or_4lVksqH9KgILUyfw5-u)
 
