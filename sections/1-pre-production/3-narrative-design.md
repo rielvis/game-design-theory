@@ -15,7 +15,7 @@ Deliverables for this step are:
 The narrative of your game is the story being told through your in-game characters and locations, which may coalesce into an overall theme.
 
 ### _Thematic Storytelling_
-The themes of your story are the ideas and concepts you convey to your players. Although different stories will have different themes, a good story should have a theme that deeply resonates with the audience.
+The themes of your story are the ideas and concepts you convey to your players. Although different stories will have different themes, a good story should have themes that both fascinate and resonate with the audience.
 
 To find a resonating theme, it is important to pay attention to who your audience is and what resonates with them. It needs to be something that feels intrinsic and ideally subconscious about the human experience.
 
@@ -56,3 +56,13 @@ This is only to say how a character should react towards the external story, and
 
 ### _Locations & Environmental Storytelling_
 A story is also told by its environments and what the objects and activity of a space imply about past, present, or future events. 
+
+Instead of describing events as they unfold, like how psychoemotional storytelling may do, environmental storytelling describes the outcome of an event that already happened. 
+
+Storytelling this way forces the audience to think and imagine events that are not explicitly shown to them, which can deepend the immersion and investment they have for your game.
+
+> Source: [Bart Stuart (2015) 'Environmental Storytelling'](https://www.gamedeveloper.com/design/environmental-storytelling)
+
+This is different to the _setting_ of a story, which is the more surface-level aspects of your environment. The setting of your story inform the aesthetics, technology, and culture of your characters and objects in your environment.
+
+> It may also be a determining factor of your genre, with cybernetic futurism being indicative of science fiction and magical dragons and sorcery being indicative of fantasy.
