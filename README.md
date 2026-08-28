@@ -39,8 +39,6 @@ _This work is not affiliated with any organisation._
 
 ### AI Notice
 
-_All concepts and ideas in this repository are a product of both my own and others' education, experience, and reasoning; **No generative AI tools were used to reason or imagine said concepts or ideas.**_
+_All concepts and ideas in this repository are a product of both my own and others' education, experience, and reasoning; **no generative AI tools were used to reason, imagine, textualise, or visualise said concepts or ideas.**_
 
 _Where a concept or idea is not from my own education, experience, or reasoning, a link to the source content is included._
-
-_**No generative AI tools were used to produce any text, imagery, or relative content in this repository.**_
