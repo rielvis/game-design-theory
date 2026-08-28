@@ -21,9 +21,7 @@ To find a resonating theme, it is important to pay attention to who your audienc
 
 > The reason we want to find a theme that is so deeply hidden is for the feeling we get when it is expressed beyond ourselves. 
 >
-> We may feel a lot of our personal experiences are unique to ourselves because we only ever feel our own experiences. But when something we feel so internally is found externally, it can trigger feelings of surprise and excitement. 
->
->It validates who we are through similarity, and it may also quell feelings of loneliness if the topic is not well represented in media.
+> We may feel a lot of our personal experiences are unique to ourselves because we only ever feel our own experiences. But when something we feel so internally is found externally, it can trigger feelings of surprise and excitement. It validates who we are through similarity, and it may also quell feelings of loneliness if the topic is not well represented in media.
 >
 > Theming is important and powerful!
 
