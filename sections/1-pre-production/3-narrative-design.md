@@ -10,9 +10,9 @@ Deliverables for this step are:
 
 ---
 
-The narrative of your game is the story being told through your in-game characters and locations, which may coalesce into an overall theme.
-
 ## Storytelling Concepts
+
+The narrative of your game is the story being told through your in-game characters and locations, which may coalesce into an overall theme.
 
 ### _Thematic Storytelling_
 The themes of your story are the ideas and concepts you convey to your players. Although different stories will have different themes, a good story should have a theme that deeply resonates with the audience.
