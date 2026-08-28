@@ -10,7 +10,7 @@ Deliverables for this step are:
 
 ---
 
-## Storytelling Concepts
+## Concepts for Storytelling
 
 The narrative of your game is the story being told through your in-game characters and locations, which may coalesce into an overall theme.
 
