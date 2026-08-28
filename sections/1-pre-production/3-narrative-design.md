@@ -3,8 +3,8 @@ The narrative design of your GDD outlines the story your game is telling. This s
 
 Deliverables for this step are:
 - _Thematic Profile_
-- _Location Profiles_
 - _Character Profiles_
+- _Location Profiles_
 - _Story Arc Outlines_
 - _Narrative Screenplay_
 
