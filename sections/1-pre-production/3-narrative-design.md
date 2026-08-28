@@ -34,7 +34,7 @@ Thoughts drive feelings, which drive behaviours, which reinforce thoughts.
 
 ![CBT Cycle](/images/CBT-cycle.png)
 
-> Image Source: [Skyland Trail '4 Differences Between CBT and DBT and How to Tell Which is Right for You'](https://www.skylandtrail.org/4-differences-between-cbt-and-dbt-and-how-to-tell-which-is-right-for-you/)
+> Source: [Skyland Trail '4 Differences Between CBT and DBT and How to Tell Which is Right for You'](https://www.skylandtrail.org/4-differences-between-cbt-and-dbt-and-how-to-tell-which-is-right-for-you/)
 
 Each character’s misconception is a distorted core belief. That core belief informs how they mentally react to external events, which triggers an emotional response. That emotional response is what drives their behavior to pursue their goal of being cured or satisfied from their ailment.
 
