@@ -14,7 +14,7 @@ Deliverables for this step are:
 
 The narrative of your game is the story being told through your in-game characters and locations, which may coalesce into an overall theme.
 
-### _Emotional Arcs & Thematic Storytelling_
+### _Arcs & Thematic Storytelling_
 
 #### _Themes_
 The themes of your story are the ideas and concepts you convey to your players. Although different stories will have different themes, a good story should have themes that both fascinate and resonate with the audience.
@@ -37,6 +37,16 @@ In the example below, the higher the line goes means the higher the tension in t
 ![Story Arc](/images/StoryArc.png)
 
 > _Not every story will follow the same trajectory of intensity. Different stories may start, rise, fall, and end at different rates and levels of intensity._
+
+Each character in your story will have an arc, and those too can vary in trajectory. As outlined by Ali Luke, their arc may be:
+- **Moral Ascending:** They become a better person; typical for heroes.
+- **Moral Descending:** They become a worse person; typical for villains.
+- **Transformational:** They become neither better nor worse; just different.
+- **Flat:** They don't change; typical for side characters.
+
+> Source: [Ali Luke (2025) 'What is a Character Arc? Positive, Negative, and Flat Character Arcs Explained (Plus Examples)'](https://www.aliventures.com/character-arcs/)
+
+> _The protagonist of a story may not always be heroic, and the antagonist may not always be villainous. Either one can morally ascend or descend. It entirely depends on what kind of story you want to tell._
 
 ### _Characters & Psychoemotional Storytelling_
 A story can be told through the experience of a character and their journey from who they were to who they will become. 
@@ -80,14 +90,35 @@ This is different to the _setting_ of a story, which is a more surface-level asp
 
 > _The setting of Cyberpunk 2077 is a futuristic cybernetic city in the year 2077, but there are many different environmental stories being told within and around the city._
 
+### _Linear Stories vs Branching Stories_
+When you add the interactivity of games to a story, your story may either be linear or branching.
+
+**Linear** stories are what stories traditionally are: a set series of events from start to finish. No matter what the audience does during the story, it will go along a predefined route and end in a specific way.
+
+**Branching** stories are ones that have multiple endings and outcomes depending on the choices made by the players. While this does offer better **_player agency_**, accounting for multiple endings and cause your scope to increase exponentially with each choice you offer the players.
+
+To give the players a sense of agency without ballooning the scope of your game, you can use **_illusion of choice_**. This is when you make the players think their choices in the story matter, but either choice leads you to the same outcome.
+
 ## Methods for Narrative Design
 There are many ways to actually go about building your narrative from an idea to a fully written story. Below are a few.
 
 ### _The Snowflake Method_
+> Source: [Randy Ingermanson (2012) 'The Snowflake Method For Designing A Novel'](https://www.advancedfictionwriting.com/articles/snowflake-method/)
+
 ...
 
-### _Writing from the Middle_
+### _The Five Step Method_
+> SourceL [Mythic Scribes 'Writing a Book – The 5 Step Method'](https://mythicscribes.com/writing-a-book/)
+
 ...
+
+### _The 'Write From The Middle' Method_
+> Source: [James Scott Bell (2014) 'The “Write From The Middle” Method'](https://writershelpingwriters.net/2014/03/james-scott-bell-write-middle-method/)
+
+...
+
+## Writing a Narrative Screenplay
+Screenplays are used in theatre and cinema to outline events and dialogue, but they can also be used in games that are cinematic and story-driven.
 
 ---
 
