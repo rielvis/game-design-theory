@@ -38,13 +38,13 @@ In the example below, the higher the line goes means the higher the tension in t
 
 > _Not every story will follow the same trajectory of intensity. Different stories may start, rise, fall, and end at different rates and levels of intensity._
 
-Each character in your story will have an arc, and those too can vary in trajectory. As outlined by Ali Luke, their arc may be:
+Each character in your story will have an arc, and those too can vary in trajectory. Their arc may be:
 - **Moral Ascending:** They become a better person; typical for heroes.
 - **Moral Descending:** They become a worse person; typical for villains.
 - **Transformational:** They become neither better nor worse; just different.
 - **Flat:** They don't change; typical for side characters.
 
-> Source: [Ali Luke (2025) 'What is a Character Arc? Positive, Negative, and Flat Character Arcs Explained (Plus Examples)'](https://www.aliventures.com/character-arcs/)
+> Source: [Robert Reed Smith (2021) 'What is a Character Arc? The Four Types with Examples'](https://www.dabblewriter.com/articles/what-is-a-character-arc-the-four-types-with-examples)
 
 > _The protagonist of a story may not always be heroic, and the antagonist may not always be villainous. Either one can morally ascend or descend. It entirely depends on what kind of story you want to tell._
 
