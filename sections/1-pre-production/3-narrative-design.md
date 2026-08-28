@@ -3,9 +3,9 @@ The narrative design of your GDD outlines the story your game is telling. This s
 
 Deliverables for this step are:
 - _Thematic Profile_
-- _Character Profiles_
-- _Location Profiles_
-- _Story Arc Outlines_
+- _Character Profiles & Arcs_
+- _Setting & Location Profiles_
+- _Story Arc & Outline_
 - _Narrative Screenplay_
 
 ---
@@ -99,28 +99,45 @@ When you add the interactivity of games to a story, your story may either be lin
 
 To give the players a sense of agency without ballooning the scope of your game, you can use **_illusion of choice_**. This is when you make the players think their choices in the story matter, but either choice leads you to the same outcome.
 
-## Methods for Narrative Design
-There are many ways to actually go about building your narrative from an idea to a fully written story. Below are a few.
+## Plotting Methods for Narrative Design
+There are many ways to actually go about outlining your narrative from an idea to a fully written story. Below are a few methods originally for writing books, but can absolutely be used with other narrative mediums.
 
 ### _The Snowflake Method_
 > Source: [Randy Ingermanson (2012) 'The Snowflake Method For Designing A Novel'](https://www.advancedfictionwriting.com/articles/snowflake-method/)
 
-...
-
 ### _The Five Step Method_
 > SourceL [Mythic Scribes 'Writing a Book – The 5 Step Method'](https://mythicscribes.com/writing-a-book/)
 
-...
-
 ### _The 'Write From The Middle' Method_
 > Source: [James Scott Bell (2014) 'The “Write From The Middle” Method'](https://writershelpingwriters.net/2014/03/james-scott-bell-write-middle-method/)
-
-...
 
 ## Writing a Narrative Screenplay
 > Source: [Film Riot (2024) 'How To Write A Screenplay (For Beginners)'](https://www.youtube.com/watch?v=0SNaOisC2II)
 
 Screenplays are used in theatre and cinema to outline events and dialogue, but they can also be used in games that are cinematic and story-driven.
+
+### _Concept (Appeal to Audience)_
+Your concept is the core idea of your story. It is generally what your story is about, but it should stay minimal with room to apply more ideas.
+
+> _Celeste: A young adult climbs a mountain._
+
+> _Twisted Tower: A man explores a wackily creepy tower._
+
+### _Synopsis (Who? What? Why?)_
+The synopsis of your story describes who your protagonist is, what they are trying to do, and why they are trying to do it. From your concept, you can ask yourself for more details.
+
+> _Celeste: A young adult with emerging magical powers (who) tries to climb a mountain (what) to overcome their anxiety and its many manifestations (why)._
+
+> _Twisted Tower: A man with a troubled family (who) explores a wackily creepy tower (what) in pursuit of his fiance where she is trapped (why)._
+
+### _Structure (Ordering the Ideas)_
+...
+
+### _Formatting (Rules for Scripting)_
+...
+
+### _Writing (Show. Flow. Know.)_
+...
 
 ---
 
