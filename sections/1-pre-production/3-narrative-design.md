@@ -30,7 +30,7 @@ A story can be told through the experience of a character and their journey from
 
 Although you may detail a character physically and socially, characters should start with some ailment or unmet desire, along with a misconception that may distort the actuality of their ailment. Their story is driven by their goal to cure or satisfy that which ails them despite their misconception. How their story ends depends on their reaction to facing a truth which contradicts the lie that drove them to seek their supposed cure. How they are physically and socially should be representative of their cognitive-behavioural state.
 
-Thoughts drive feelings, which drive behaviours, which reinforce thoughts.
+> Thoughts drive feelings, which drive behaviours, which reinforce thoughts.
 
 ![CBT Cycle](/images/CBT-cycle.png)
 
