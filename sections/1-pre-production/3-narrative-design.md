@@ -10,7 +10,7 @@ Deliverables for this step are:
 
 ---
 
-## Concepts for Storytelling
+## Concepts for Narrative Design
 
 The narrative of your game is the story being told through your in-game characters and locations, which may coalesce into an overall theme.
 
@@ -80,4 +80,17 @@ This is different to the _setting_ of a story, which is a more surface-level asp
 
 > _The setting of Cyberpunk 2077 is a futuristic cybernetic city in the year 2077, but there are many different environmental stories being told within and around the city._
 
-## Techniques for Storytelling
+## Methods for Narrative Design
+There are many ways to actually go about building your narrative from an idea to a fully written story. Below are a few.
+
+### _The Snowflake Method_
+...
+
+### _Writing from the Middle_
+...
+
+---
+
+|**<<<**|**<**|**>**|**>>>**|
+|-|-|-|-|
+| _[PHASE 0 - Preparation](../0-preparation)_ | _[P1-STEP 2 : Interactive Design](../1-pre-production/2-interactive-design.md)_ | _[P1-STEP 4 : Aesthetics Design](4-aesthetics-design.md)_ | _[PHASE 2 : Production]()_ |
