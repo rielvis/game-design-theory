@@ -26,7 +26,24 @@ To find a resonating theme, it is important to pay attention to who your audienc
 > Theming is important and powerful!
 
 ### _Characters & Psychoemotional Storytelling_
-...
+A story can be told through the experience of a character and their journey from who they were to who they will become. 
+
+Although you may detail a character physically and socially, characters should start with some ailment or unmet desire, along with a misconception that may distort the actuality of their ailment. Their story is driven by their goal to cure or satisfy that which ails them despite their misconception. How their story ends depends on their reaction to facing a truth which contradicts the lie that drove them to seek their supposed cure. How they are physically and socially should be representative of their cognitive-behavioural state.
+
+> Thoughts drive feelings, which drive behaviours, which reinforce thoughts.
+
+![CBT Cycle](/images/CBT-cycle.png)
+
+Each character’s misconception is a distorted core belief. That core belief informs how they mentally react to external events, which triggers an emotional response. That emotional response is what drives their behavior to pursue their goal of being cured or satisfied from their ailment.
+
+Furthermore, a character is likely to have three types of core beliefs: a belief of the self, a belief of others, and a belief of the world. All of these are influential to their thoughts, feelings, and behaviour. Some or all may be distorted, and a character may have multiple beliefs, contradictory or cohesive, of the self, the world, and others.
+
+It is a complex web of internal reasoning.
+
+This is only to say how a character should react towards the external story, and that their reaction should be cohesive with their core belief and the cognitive behavioural cycle their beliefs suppose. Furthermore, the characters are the medium through which the audience feels the story.
+
+When detailing a character, establish as much as you can on what they believe and value about themselves, others, and the world. Use those beliefs and values as a point of reference for how they would react mentally, emotionally, and behaviourally to the events unfolding upon them.
+
 
 ### _Locations & Environmental Storytelling_
 ...
