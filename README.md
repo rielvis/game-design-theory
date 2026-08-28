@@ -28,7 +28,7 @@ This repository is a write-up of game design theory I want to remember when maki
 
 ## License & Content Notice
 
-This **compilation** belongs exclusively to Robin Davis and is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-nd].
+This **compilation** belongs exclusively to Robin Davis and is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
