@@ -63,6 +63,4 @@ Storytelling this way forces the audience to think and imagine events that are n
 
 > Source: [Bart Stuart (2015) 'Environmental Storytelling'](https://www.gamedeveloper.com/design/environmental-storytelling)
 
-This is different to the _setting_ of a story, which is the more surface-level aspects of your environment. The setting of your story inform the aesthetics, technology, and culture of your characters and objects in your environment.
-
-> It may also be a determining factor of your genre, with cybernetic futurism being indicative of science fiction and magical dragons and sorcery being indicative of fantasy.
+This is different to the _setting_ of a story, which is a more surface-level aspect of your environment. The setting of your story is the where and when your characters exist, and that informs both the culture, technology, and aesthetics of your story's world.
