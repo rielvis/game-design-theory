@@ -48,6 +48,6 @@ Perhaps the most important aspect of pacing is knowing how to balance the challe
 
 This is very important as it can directly affect the anxiety-boredom flow state mentioned previously in Mechanics Design.
 
-When trying to achieve that flow state, a player getting better at a skill decreases the felt challenge of the game. This can cause that line of progression to dip into boredom which we want to avoid. To avoid that, we increase the challenge to brush against that realm of anxiety, which instead creates a sense of thrill for the player. This may cause anxiety, but maintaining a sense of possibility for the player can encourage them to keep trying and avoid feeling too challenged.
+When trying to achieve that flow state, a player getting better at a skill decreases the felt challenge of the game. This can cause that line of progression to dip into boredom, which we want to avoid. To avoid that, we increase the challenge to brush against that realm of anxiety, which instead creates a sense of thrill for the player. This may cause anxiety, but maintaining a sense of possibility for the player can encourage them to keep trying and avoid feeling too challenged.
 
 Levels build and decompress between high intensity and low intensity moments. Often, a level will start at a very low intensity for the player and peak to a high intensity around the middle or towards the end, much like how a story moves.
