@@ -114,8 +114,10 @@ There are many ways to actually go about outlining your narrative from an idea t
 ## Writing a Narrative Screenplay
 > Source: [Film Riot (2024) 'How To Write A Screenplay (For Beginners)'](https://www.youtube.com/watch?v=0SNaOisC2II)
 
-Screenplays are used in theatre and cinema to outline events and dialogue, but they can also be used in games that are cinematic and story-driven.
+Screenplays are used in theatre and cinema to outline events and dialogue, but they can also be used in games that are cinematic and story-driven. 
 
+> _It is not strictly necessary to have a screenplay if your game is not cinematic._
+>
 > _The first three sub-sections here - Concept, Synopsis, and Structure - could be used as a plotting method independently of screenwriting!_
 
 ### _Concept (Appeal to Audience)_
@@ -170,6 +172,8 @@ Non-title page margins should be `1.5"` on **left** and `1"` on **right**, **top
 
 Non-title pages should be **numbered in the top-right corner**.
 
+Each page should roughly translate to **1 minute** of screen-time.
+
 #### _Slugline_
 The slugline (or scene heading) is used to initiate a scene, and it contains the **location** and **time** of a scene.
 
@@ -183,7 +187,64 @@ A complete slugline therefore could look like `INT. DERELICT HOUSE - BEDROOM - D
 
 You can also use sub-headings (lacking `INT.` or `EXT.`) to shift locations or time without breaking from a scene.
 
-#### __
+#### _Action_
+The action of a scene is a description of the scene and events happening therein, and is distinct from dialogue.
+
+Action should be written in **present-tense**.
+
+> _Action should avoid "artistic" language and descriptions of character thought, as it should only serve as a "matter-of-fact" visual description._
+
+Some aspects in action should be **capitalised**:
+- A character's name the first time they appear.
+- Plot-significant details and props
+- Sound effects
+
+An action element could look like so:
+
+`Rain falls outside the night club. MORGAN (24) walks towards the front door. They look down at a KEY in their hand. As they go to unlock the door, BOOM. They hear an explosion from inside.`
+
+> _In the context of games, write the action as how you intend the player to move through the story. Using various game design principles, you can covertly guide the player through the script._
+
+#### _Character_
+When a character has dialogue, a **character cue** is used atop it, **capitalised** and roughly **centred** by a `3.7"` indentation.
+
+Beside a character cue, you may have directions and specifications for where the character is.
+- `(V.O.)` means _voice over_, and is used for non-diegetic characters.
+- `(O.S.)` means _off screen_, and is used for diegetic characters who are not immediately visible.
+
+If a character speaks twice in a row, or their dialogue is split by a page-break, `(CONT'D)` meaning _continued_ is used to clarify that.
+
+#### _Dialogue_
+
+Dialogue should be **beneath a character cue** roughly **centred** by a `2.5"` indentation.
+
+> _In the context of games, you may have multiple dialogue options for one scene. As there is no standard format for branching dialogue in a script, it is basically up to you how you want to clarify that._
+
+#### _Parentheticals_
+Parentheticals sit between the character cue and dialogue, and are used to specify **how the dialogue should be performed** by the character.
+
+> _These should only be used when necessary to the plot._
+
+#### _Transitions_
+Transitions are right-aligned on the page and ended with a colon.
+
+They may be `CUT TO:`, `DISSOLVE TO:`, `MATCH CUT TO:`, or some other transition description.
+
+> _These should only be used when necessary to the plot._
+
+#### _On-Screen Text_
+To indicate text that should be displayed to the audience, you can use **underlined** indicators like so:
+- <ins>`TITLE:`</ins> for opening and closing titles
+- <ins>`SUPER:`</ins> for textualised locations and time
+
+#### _Scene Amendments_
+Once a final draft of your script has been made, each slugline is given a number with a `0.75"` indentation on the **left**, and a `1"` indentation on the **right**.
+
+Scenes that are added later in production are assigned a letter alongside the scene number they follow.
+- If a new scene is added **after** an existing scene numbered `3`, the new scene is numbered as `3A`. If another scene is added here, that scene is then numbered as `3B`. 
+- If a new scene is added **before** an existing scene numbered `3`, the new scene is numbered as `A3`.
+
+Scenes that are removed later in production are cleared, but the scene number remains with `OMITTED` following to keep the count in place.
 
 ### _Writing (Show. Flow. Know.)_
 ...
