@@ -159,7 +159,12 @@ The **frequency** of a sound is the rate of waveform cycle completions per secon
 ### Music Theory & Composition
 > Source: [Cinematic Composing (2023) 'How to Compose Music | Your first piece for Complete Beginners'](https://www.youtube.com/watch?v=ZdhdC2wx2Ew)
 
+> Source: [Max Konyi (2026) 'A Guided Tour of Musical Feeling'](https://www.youtube.com/watch?v=AARDtj6wL3U)
+
 Music is utilized in theatre, movies, and games to amplify and guide the emotions of the audience.
+
+#### _Musical Feeling_
+...
 
 #### _Keys & Modal Mixture_
 The **key** of a song is the specific group of notes that define the tonality of the piece. In western music, we have major keys and minor keys, and certain emotional ascriptions to them.
