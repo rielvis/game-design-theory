@@ -36,7 +36,7 @@ The Gestalt principles are guidelines for how our brains make sense of what we s
 
 The main Gestalt principle is **Pragnanz**, which states that the mind tends to look for simplicity when experiencing complex information. We naturally dissect complexity to look for basic forms, patterns with those forms, and groups based on those forms and patterns.
 
-#### _Princples of Form_
+#### _Principles of Form_
 The principle of **Figure-Ground** states that the brain instinctively tries to separate focal elements from ground elements. This separation can be used to prioritise elements that are more significant. 
 
 The principle of **Closure** states that the brain tends to complete incomplete shapes when information seems to be missing from a scene. We do this because we are trying to identify forms.
