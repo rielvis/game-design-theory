@@ -165,9 +165,9 @@ The font should be **monospaced**, which means each letter takes up the same spa
 
 #### _Page_
 The first page should be the **title page**. 
-- The title should be **capitalised** and **written in the centre**, written as `[TITLE]` w/o brackets. 
-- Beneath the title should be an **acknowledgement of the writer(s)**, written as `by [Writer]` w/o brackets.
-- If the screenplay is based on a pre-existing story, beneath the writer acknowledgement should be a **reference to the source material**, written as `Based on the [media] '[name of media]' by [Author]` w/o brackets.
+- The title should be **capitalised** and **written in the centre**, written as `TITLE`. 
+- Beneath the title should be an **acknowledgement of the writer(s)**, written as `by WRITER`.
+- If the screenplay is based on a pre-existing story, beneath the writer acknowledgement should be a **reference to the source material**, written as `Based on the MEDIA 'NAME OF MEDIA' by AUTHOR`.
 - You may also include your **contact information and the **date of draft** in either bottom-corner**, though this is not strictly necessary.
 
 Non-title page margins should be `1.5"` on **left** and `1"` on **right**, **top**, and **bottom**.
