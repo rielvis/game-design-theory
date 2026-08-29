@@ -116,6 +116,8 @@ There are many ways to actually go about outlining your narrative from an idea t
 
 Screenplays are used in theatre and cinema to outline events and dialogue, but they can also be used in games that are cinematic and story-driven.
 
+> _The first three sub-sections here - Concept, Synopsis, and Structure - could be used as a plotting method independently of screenwriting!_
+
 ### _Concept (Appeal to Audience)_
 Your concept is the core idea of your story. It is generally what your story is about, but it should stay minimal with room to apply more ideas.
 
@@ -144,7 +146,7 @@ Once you have all your ideas recorded, you can start ordering where you ideas si
 ![Story Arc No Line](/images/StoryArc-NoLine.png)
 
 ### _Formatting (Rules for Scripting)_
-...
+
 
 ### _Writing (Show. Flow. Know.)_
 ...
