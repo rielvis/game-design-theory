@@ -51,3 +51,51 @@ When trying to achieve that flow state, a player getting better at a skill decre
 > _This is very important as it directly affects the anxiety-boredom flow state mentioned previously in Mechanics Design._
 
 Levels build and decompress between high intensity and low intensity moments. Often, a level will start at a very low intensity for the player and peak to a high intensity around the middle or towards the end, much like how a story moves.
+
+## Spatial Composition & Dynamics
+Spatial composition and dynamics refer to how we use architecture and the visuals of a space to guide the player without explicitly telling them where to go.
+
+### _Objectives & Landmarks_
+Players want to know what their objective is. You could communicate that objective with a mission HUD for the player, but without it you can use **landmarks**.
+
+Landmarks are highly distinctive structures or environmental cues that grab the player’s attention.
+
+
+### _Guidelines & Guardrails_
+...
+
+### _Lighting & Movement_
+...
+
+### _Restriction & Flow Control_
+...
+
+### _Diverging & Merging Paths_
+...
+
+### _Mystery & Curiosity Control_
+...
+
+### _Safety & Recovery Dynamics_
+...
+
+### _Critical & Optional Paths_
+...
+
+### _Affordance & Functional Vocabulary_
+...
+
+## Aesthetics & Environmental Storytelling
+...
+
+### _Narrative Assets_
+...
+
+## Level Documentation
+..
+
+### _Beat Charts_
+...
+
+### _Layout Diagrams_
+...
