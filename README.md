@@ -3,6 +3,8 @@ This repository is a write-up of game design theory I want to remember when maki
 
 > _Because most of what is written here is based on theory more so than practice, I will continue to update and refine this guide with further practice, feedback, and reflection._
 
+Check out [my YouTube channel](https://www.youtube.com/@rielvis) for a collection of playlists - _Game Design Theory (M.I.N.A.L.)_ - containing other videos and content that better explain the ideas in this repository.
+
 ---
 
 ## Sections
@@ -40,5 +42,3 @@ _This work is not affiliated with any organisation._
 ### AI Notice
 
 _All concepts and ideas in this repository are a product of both my own and others' education, experience, and reasoning; **no generative AI tools were used to reason, imagine, textualise, or visualise said concepts or ideas.**_
-
-_Where a concept or idea is not from my own education, experience, or reasoning, a link to the source content is included._
