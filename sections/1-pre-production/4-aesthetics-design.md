@@ -80,19 +80,19 @@ Colour harmonies are the ways colours can be visually paired to pleasantly balan
 Shape psychology, much like colour psychology, is how people interpret and derive meaning from shapes. Shape language is the use of shapes to trigger those interpretations.
 
 #### _Curved Shapes_
-Curved shapes like circles, ovals, and blobs elicit calm and relaxing emotions as they ease the brain’s threat response. Blobs may also be called **organic shapes**.
+**Curved shapes** like circles, ovals, and blobs elicit calm and relaxing emotions as they ease the brain’s threat response. Blobs may also be called **organic shapes**.
 
 The lack of sharp piercing shapes tells us that what we are seeing is not immediately dangerous, and as these shapes are prevalent in nature they convey a sense of passivity which can feel safe and welcoming.
 
 However, with organic shapes, because they are a “natural” shape and nature is largely out of our control, they may induce a sense of chaos and irregularity which can feel unsettling.
 
 #### _Rectangular Shapes_
-Rectangular shapes like rectangles and squares convey stability and order as they are used in construction and rigid organisation. They maintain a sense of safety while also providing a sense of predictability as they lack the irregularity of organic shapes.
+**Rectangular shapes** like rectangles and squares convey stability and order as they are used in construction and rigid organisation. They maintain a sense of safety while also providing a sense of predictability as they lack the irregularity of organic shapes.
 
 However, that predictability may also give a sense of restriction and monotony that can feel boring and unlively.
 
 #### _Triangular Shapes_
-Triangular shapes are a stark contrast to curved shapes as they spark feelings of high energy, tension, and alertness. Attention is pulled to their points which can trigger caution, as these shapes in nature can mean something will pierce you and cause bodily harm.
+**Triangular shapes** are a stark contrast to curved shapes as they spark feelings of high energy, tension, and alertness. Attention is pulled to their points which can trigger caution, as these shapes in nature can mean something will pierce you and cause bodily harm.
 
 This is often done intentionally in settings where caution and attention is demanded. Although this is done for the sake of the player’s safety like in warning signs, it may also be done to demand authority over the player.
 
@@ -106,15 +106,146 @@ For example, you may have a green floor to mean growth and health, but the mater
 ## Audial Design
 
 ### Sound Effects & Ambiance
-...
+Sound effects not only serve a dynamic purpose to the gameplay; they also convey the aesthetic of your game. As the aesthetics of a sci-fi game may vary from those of a fantasy game, the sound effects in either may vary from each other.
+
+There are different types of sound effects, each serving a different purpose:
+
+- **Dialogue** is the spoken interaction between multiple characters. It is a diegetic sound and tends to sit in the mid-range of frequencies, however they can sit elsewhere to indicate distance from the immediate locale of the conversation.
+
+- **Foley** sounds are the sound effects made in post-production to amplify the activity of a scene. They are also diegetic and can be any kind of sound that you would expect to hear after seeing a character do something. Foley tends to be exclusive to the actions and behaviour of a character and the props they use.
+
+- **Impacts** are similar to foley, but they are more abrupt and sudden. They can be used diegetically or non-diegetically, and they serve to either interrupt the peace and ambience of a scene OR to follow the action of a player.
+
+- **Interactions** are audio queues to indicate player and mechanical interaction with the game. These tend to just be clicks and chimes.
+
+- **Transitions** are used to connect different scenes and segments. These are non-diegetic sounds that indicate to the audience a change in scene.
+
+- **Ambience** is the background noise and audio texture of a scene. It sets the mood of the scene and fills the silence so that the audience doesn’t check out as easily. Ambience gives the audience something to audibly ride between or behind actions.
+
+#### _Waveform & Texture_
+The **waveform** of a sound is the visual shape it makes when fed through a waveform reader. It measures the amplitude of a sound over a specific amount of time. 
+
+Different waveform shapes result in different sounds. Sound synthesisers use a mix and modification of basic waveforms to create a wide variety of sounds, whereas sound recorders attempt to capture real sounds with initially complex waveforms. The layering and complexity of a waveform to produce a certain quality of sound is known as the **texture** of a sound.
+
+Recorded sounds today tend to feel more realistic, but synthesised sounds tend to suffer from a digital “buzz”. The quality of either depends on the bit-rate of your audio equipment, with higher bit-rates resulting in a truer sound and lower bit-rates resulting in a more distorted sound.
+
+> _Harsher sounds feel abrasive and stressful._
+>
+> _Softer sounds feel soothing and relaxing._
+
+#### _Amplitude_
+The **amplitude** of a sound is the size of the wave which represents how loud the sound is. Higher amplitude means louder sound, and lower amplitude means quieter sound. Amplitude is measured in decibels (dB).
+
+> _Louder sounds are associated with higher intensity feelings._
+>
+> _Quieter sounds are associated with lower intensity feelings._
+
+#### _Frequency_
+The **frequency** of a sound is the rate of waveform cycle completions per second, and this represents the perceived pitch of the sound. More frequency means a higher pitch, and less frequency means a lower pitch. Frequency is measured in Hertz (Hz).
+
+> _Low frequencies feel round and grounded._
+>
+> _Mid frequencies feel clear and defined._
+>
+> _High frequencies feel sharp and electric._
+
 
 ### Music Theory & Composition
-...
+> Source: [Cinematic Composing (2023) 'How to Compose Music | Your first piece for Complete Beginners'](https://www.youtube.com/watch?v=ZdhdC2wx2Ew)
+
+Music is utilized in theatre, movies, and games to amplify and guide the emotions of the audience.
+
+#### _Keys & Modal Mixture_
+The **key** of a song is the specific group of notes that define the tonality of the piece. In western music, we have major keys and minor keys, and certain emotional ascriptions to them.
+
+> _Major keys generally feel bright and content._
+>
+> _Minor keys generally feel dark and pensive._
+
+However, many songs are not exclusively happy or sad throughout. Many songs tend to shift between positive and negative emotion, and they use a **modal mixture** to slip in different feelings. This adds emotional texture to the music as the listener makes sense of there being a mix of positivity and negativity.
+
+#### _Consonance & Dissonance_
+**Consonance** is the quality of sounding cohesive, and **dissonance** is the quality of sounding conflicted. Whether something is consonant or dissonant depends on the established key of a piece and the musical tradition of the audience.
+
+> _Use dissonance to emphasise consonance._
+
+#### _Direction & Melodic Identity_
+**Direction** is the leading melody of a musical piece or phrase. It is the primary thing your audience will pay attention to when listening to or remembering the song, as it becomes the melodic identity.
+
+> _A good melody balances the repetition of rhythm with the variation of pitch._
+
+The emotions your audience will feel for a melody is what the direction is about. Melodies move up and down throughout the song, and those patterns of variation are what we derive meaning from.
+
+Melodies that go up resemble a rising action, and melodies that go down resemble falling action. Where those melodies move and rest relative to the song’s key (compoundly established by the melody and harmony) can influence the emotions that are felt by the audience.
+
+#### _Movement & Rhythmic Drive_
+**Movement** is the rhythmic drive of a musical piece or phrase. It provides the pulse that your audience feels while listening to the music.
+
+> _Faster and more rapid movement is associated with agitation and excitement._
+>
+> _Slower and less rapid movement is associated with monotony and calmness._
+
+Movement can be incorporated into a melody, but percussive instruments are especially used to provide movement to a musical piece.
+
+#### _Background & Harmonic Texture_
+**Background** is the harmonic layering of a musical piece or phrase. It provides texture that your audience can rest on while the melody or rhythm takes pause. To create background, musicians use chords, drones, and noise.
+
+**Chords** are arrays of notes played simultaneously, usually within an established key. Chords are commonly described by their **root note** (C, D, E, F, G, A, B) and their **interval scale** (perfect, major, minor, diminished, augmented, suspended).
+
+- **Major and minor chords** generally sound cohesive, though they both are cohesive in different emotional directions. Major chords carry a cohesive positivity, whereas minor chords carry a cohesive negativity.
+
+- **Diminished and augmented chords** tend to sound conflicted, and like maj/min they differ in their emotion. Diminished chords carry a downward conflict, whereas augmented chords carry an upward conflict.
+
+- **Suspended chords** tend to sound cohesive like major and minor chords, however they feel unresolved from the expectation of a major or minor tone. It can be used to hold a gentle tension, openness, and ambiguity.
+
+- **Chord progressions** are the patterns throughout a musical segment that help build the emotional background of your song. The mixture of cohesion, confliction, brightness, and darkness should be carefully and intentionally considered to bring the intended emotionality of the song.
+
+**Drones** are similar to chords, but they are longer and continuous instead of dynamic and changing. They’re used to establish a sonic foundation for atmospheric and meditative effects. The inactivity of the drone is like a harmonic silence.
+
+**Noises** are similar to drones as they provide a sonic foundation, but they are more akin to ambient sound effects than a harmonic element.
+
+> _Layering these builds the context and ground behind the melody and rhythm._
+
+#### _Instrumentation & Narrative Consistency_
+Instrumentation is the use of specific instruments with unique sounds. We recognise and associate certain instruments with certain cultures and mediums, so picking the right instrumentation is crucial for aesthetic consistency based on the narrative.
+
+Instrumentation by medium identifies the instruments by the medium they use to generate sound, and the quality that sound produces. These are also referred to as instrumental families.
+
+- **Chordophones** make sound when a performer bows, strums, plucks, strikes the strings. Different pitches are made by the varying string tautness. 
+    - Examples include violins, cellos, harps, guitars, and pianos.
+
+- **Aerophones** make sound when a performer buzzes or blows air into an air column. Different pitches are made by controlling the air column. 
+    - Examples include flutes, clarinets, recorders, and organs.
+
+- **Idiophones** make sound when a performer strikes the instrument itself. Different pitches are made by varying sizes of what the performer strikes. 
+    - Examples include marimbas, xylophones, and steelpans.
+
+- **Membranophones** make sound when a performer strikes or vibrates a stretched membrane. Different pitches are made by varying membrane tautness. 
+    - Examples include various types of drums. 
+
+- **Electrophones** make sound when a performer programs an electronic signal to an audio output device. Different pitches are made by increasing or decreasing the frequency of the digital waveform. 
+    - Examples include sound synthesisers, electric keyboards, and theremins.
+
+> _Instrumentation by region/culture identifies instruments by the communities that use them, and may be important to consider for narrative consistency._
+
 
 ---
 
 ## Aesthetic Documentation
-...
+
+### _Mood Boards & Concept Art_
+**Mood boards** are a collage or collection of pictures and images that convey the visual style intended for the game based on what is known about the narrative. These can be images of anything relevant to the visual language.
+
+**Concept art** is more bespoke to the game as it draws out more specifically what the environment, the characters, and other assets should specifically look like. 
+
+Concept art along with mood boards are referred to by the modellers who make the actual asset files to be put in-game.
+
+### _Sound Effects & Music Samples_
+**Sound effects** are the audio clips tied to specific actions and events within the game, whereas the **music** is more tied to the emotional baseline of the narrative.
+
+> _In the same way you would create mood boards to establish the visual style and feel of your game, compile a collection of existing sound effects and music to create a soundscape._
+>
+> _You may also write a style description of the soundscape and use both as a reference for the foley artists and musicians._
 
 ---
 
