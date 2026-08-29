@@ -47,6 +47,26 @@ Noun-verb diagrams are a simple diagram to visually track how the gameplay syste
 
 > Source: [@LeenaVanD via Mastodon 'Here's our noun-verb diagram for Dead Static Drive's core gameplay loop'](https://peoplemaking.games/@LeenaVanD/109341406366003091)
 
+## Playable Prototype
+A playable prototype is a rudimentary build of your game without all the aesthetic polish of a market-ready game. It consists of the core systems that allow the game to function mechanically so you can test it before investing in said polish.
+
+> _Many game developers will go straight into prototyping an idea before all the details are established. This is good practice for rapidly prototyping a lot of ideas in a short amount of time to find something that sticks. Once a good idea is found, further details can be considered to better tune and target the game for an audience._
+
+Game developers tend to use pre-built game engines to build their games from prototype to final product, the most popular ones being **Godot**, **Unity**, and **Unreal**.
+
+Each engine can more or less do the same thing, but each one is catered to different crowds.
+- [**Godot**](https://godotengine.org/) is very popular among independent developers as it is open-source, which means there are no licensing fees to use it. It uses a scripting language called **GDScript** which is based on Python, but it can also be bound to any other language like C# or even Rust! The engine is maintained by the community though primarily funded via the [**Godot Foundation**](https://godot.foundation/).
+
+- [**Unity**](https://unity.com/) has been popular amongst independent developers as well as AAA developers. It uses **C#** which is maintained by **Microsoft**, though the engine itself is maintained by [**Unity Technologies**](https://unity.com/our-company).
+
+- [**Unreal**](https://www.unrealengine.com/) has been a go-to for AAA developers who want high graphical fidelity for their games. It uses **C++** as well as **Blueprints**: a visual scripting tool. Both the engine and visual scripting are maintained by [**Epic Games**](https://www.epicgames.com/site/about).
+
+Each of those engines are perfectly capable for rapid prototyping, and whichever one you pick is up to you and your needs.
+
+> _Regardless of which engine you pick, the principles used in programming and prototyping are largely the same across engines. You could have a hobby project in Godot, another in Unity, and a larger team project in Unreal._
+>
+> _You don't have to limit yourself!_
+
 ---
 
 |**<<<**|**<**|**>**|**>>>**|
