@@ -177,7 +177,7 @@ The slugline is always **capitalised**.
 
 Outside locations start a slugline with `EXT.` and inside locations start with `INT.`. Locations that are a mix of both start with `INT./EXT.`. Following should be a title for the location, with dash-connected sub-locations if necessary. For example, this may be written as `INT. DERELICT HOUSE - BEDROOM` or `EXT. NIGHT CLUB`.
 
-Following the location information should be the time information, dash-connected. This could be general `DAY` or `NIGHT`, though some writers opt to be more specific with `DAWN`, `MORNING`, `NOON`, `AFTERNOON`, `EVENING`, `DUSK`, or an even more specific time `3 A.M.` or `5 P.M.`. You can also use time descriptions in relation to a previous scene, like `CONTINUOUS` to carry on the same time, `SAME` for when a scene is happening **at the same time, not from**. As long as the reader understands when the scene takes place, that is all that matters.
+Following the location information should be the time information, dash-connected. This could be general `DAY` or `NIGHT`, though some writers opt to be more specific with `DAWN`, `MORNING`, `NOON`, `AFTERNOON`, `EVENING`, `DUSK`, or an even more specific time `3 A.M.` or `5 P.M.`. You can also use time descriptions in relation to a previous scene, like `CONTINUOUS` to carry on the same time, `SAME` for when a scene is happening simulataneously with the previous, as well as `LATER` and `EARLIER` with moments, seconds, minutes, hours, days, weeks, months, or years preceding it. As long as the reader understands when the scene takes place, that is all that matters.
 
 A complete slugline therefore could look like `INT. DERELICT HOUSE - BEDROOM - DAY` or `EXT. NIGHT CLUB - NIGHT`.
 
