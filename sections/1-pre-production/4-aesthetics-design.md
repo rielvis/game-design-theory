@@ -63,6 +63,20 @@ Colour psychology is how people interpret and derive meaning from colours, and c
 
 The way people interpret colour is based on biological, cultural, and personal factors. Biological factors tend to be universal, but cultural, personal, and contextual factors will vary per person and per situation. You may identify the cultural background of your audience for the sake of more accurate symbolism mapping.
 
+![Colour Psychology](/images/ColourPsychology.png)
+
+> Source: [Foundry12 (2022) 'The psychology of colour in branding'](https://www.foundry12.co.uk/the-psychology-of-colour-in-branding/)
+
+#### _Colour Harmony_
+Colour harmonies are the ways colours can be visually paired to pleasantly balance the chromatics of a scene or image. As we embed meaning within specific colours, harmonies can be used to dynamicise those meanings.
+
+- **Analogous harmony** is when a single hue is maintained but supported with slight hue shifts, like red with purple/orange or green with blue/yellow. This can be used to aesthetically or thematically detail a single theme.
+
+- **Complementary harmony** is when opposing colours, like green/red or blue/orange, are paired for chromatic and thematic contrast, such as a rivalry between characters or to compound meanings in a transitional manner. 
+
+- **Triadic harmony** is the use of three colours at equal distances from each other on the colour wheel, like red/yellow/blue or orange/green/purple.
+
+
 ### Shape Language & Psychology
 ...
 
