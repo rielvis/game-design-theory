@@ -6,7 +6,7 @@ Deliverables for this step are:
 - _Character Profiles & Arcs_
 - _Setting & Location Profiles_
 - _Story Arc & Outline_
-- _Narrative Screenplay_
+- _*Narrative Screenplay_
 
 ---
 
@@ -111,12 +111,12 @@ There are many ways to actually go about outlining your narrative from an idea t
 ### _The 'Write From The Middle' Method_
 > Source: [James Scott Bell (2014) 'The “Write From The Middle” Method'](https://writershelpingwriters.net/2014/03/james-scott-bell-write-middle-method/)
 
-## Writing a Narrative Screenplay
+## Writing a *Narrative Screenplay
 > Source: [Film Riot (2024) 'How To Write A Screenplay (For Beginners)'](https://www.youtube.com/watch?v=0SNaOisC2II)
 
-Screenplays are used in theatre and cinema to outline events and dialogue, but they can also be used in games that are cinematic and story-driven. 
+Screenplays are used in theatre and cinema to outline events and dialogue for actors and producers, but they can also be used in games that are cinematic and story-driven. 
 
-> _It is not strictly necessary to have a screenplay if your game is not cinematic._
+> _It is not strictly necessary to have a screenplay if your game is not very cinematic or story-driven._
 >
 > _The first three sub-sections here - Concept, Synopsis, and Structure - could be used as a plotting method independently of screenwriting!_
 
@@ -141,7 +141,7 @@ A sure way to generate ideas is by asking, "What if...?"
 
 > _Celeste: What if the mountain is the source of the magic? What if their anxiety is personified? What if one of the manifestations is a monster that chases you?_
 
-Once you have all your ideas recorded, you can start ordering where you ideas sit from start to finish and which ideas you end up keeping and scrapping.
+Once you have all your ideas recorded, you can start ordering where your ideas sit from start to finish and which ideas you end up keeping or scrapping.
 
 ![Story Arc No Line](/images/StoryArc-NoLine.png)
 
@@ -155,6 +155,8 @@ Once you have all your ideas recorded, you can start ordering where you ideas si
 When you take your story to a script for screenplay, there are some formatting rules you may need to follow. 
 
 > _Although video games are not strictly bound by the same rules, the similarities between film production and cinematic game production can help bridge those originally from the film industry into your game project._
+>
+> _And again: you do not need to write a screenplay for your game. It is just a helpful document if your game has cinematic qualities._
 
 #### _Font_
 Font should be `12 pt. Courier`.
@@ -172,7 +174,7 @@ Non-title page margins should be `1.5"` on **left** and `1"` on **right**, **top
 
 Non-title pages should be **numbered in the top-right corner**.
 
-Each page should roughly translate to **1 minute** of screen-time.
+> _In film, each page should roughly translate to **1 minute** of screen-time. But for games, since the progression of the narrative depends on the players' ability, this fact can be ignored._
 
 #### _Slugline_
 The slugline (or scene heading) is used to initiate a scene, and it contains the **location** and **time** of a scene.
@@ -181,7 +183,7 @@ The slugline is always **capitalised** and should never exceed one line on the p
 
 Outside locations start a slugline with `EXT.` and inside locations start with `INT.`. Locations that are a mix of both start with `INT./EXT.`. Following should be a title for the location, with dash-connected sub-locations if necessary. For example, this may be written as `INT. DERELICT HOUSE - BEDROOM` or `EXT. NIGHT CLUB`.
 
-Following the location information should be the time information, dash-connected. This could be general `DAY` or `NIGHT`, though some writers opt to be more specific with `DAWN`, `MORNING`, `NOON`, `AFTERNOON`, `EVENING`, `DUSK`, or an even more specific time `3 A.M.` or `5 P.M.`. You can also use time descriptions in relation to a previous scene, like `CONTINUOUS` to carry on the same time, `SAME` for when a scene is happening simulataneously with the previous, as well as `LATER` and `EARLIER` with moments, seconds, minutes, hours, days, weeks, months, or years preceding it. As long as the reader understands when the scene takes place, that is all that matters.
+Following the location information should be the time information, dash-connected. This could be general `DAY` or `NIGHT`, though some writers opt to be more specific with `DAWN`, `MORNING`, `NOON`, `AFTERNOON`, `EVENING`, `DUSK`, or an even more specific time like `3 A.M.`, `5 P.M.`, or any time of day. You can also use time descriptions in relation to a previous scene, like `CONTINUOUS` to carry on the same time, `SAME` for when a scene is happening simultaneously with the previous, as well as `LATER` and `EARLIER` with moments, seconds, minutes, hours, days, weeks, months, or years preceding it. As long as the reader understands when the scene takes place, that is all that matters.
 
 A complete slugline therefore could look like `INT. DERELICT HOUSE - BEDROOM - DAY` or `EXT. NIGHT CLUB - NIGHT`.
 
@@ -246,8 +248,31 @@ Scenes that are added later in production are assigned a letter alongside the sc
 
 Scenes that are removed later in production are cleared, but the scene number remains with `OMITTED` following to keep the count in place.
 
-### _Writing (Show. Flow. Know.)_
-...
+### _Rules of Thumb (Show. Flow. Know.)_
+Finally, there are three general rules (not strict) you can follow to write good scripts.
+
+#### _Show. Don't Tell._
+You should deliver your narrative primarily through action, not dialogue. 
+
+> _This does not mean you should have less dialogue or more action, nor does it mean your characters cannot talk about the narrative._
+
+In other words, you should express the concepts, ideas, and themes of your story through **the activity of a scene** and **the subtext of what your characters are saying and doing.**
+
+#### _Control The Flow._
+You should appropriately pace the narrative.
+
+If the narrative is moving too slowly, your audience will get bored and stop engaging. If the narrative is moving too quickly, your audience will get lost and confused.
+
+Always keep the story moving and pace accordingly. Slow down when you want the audience to pick up on subtext, speed up when you want to excite the audience, and return to a steady pace for breathing room and regular progression.
+
+#### _Know What You Write._
+You should only write about something if you know about said thing.
+
+> _This does not mean you cannot write fiction._
+
+If you write about a theme or idea that you have little to no knowledge of, those in your audience who do know of it will clock that immediately. This can harm the quality of your narrative and it tells your audience that you are an illegitimate writer.
+
+Do your research and only write about themes and ideas you know well.
 
 ---
 
