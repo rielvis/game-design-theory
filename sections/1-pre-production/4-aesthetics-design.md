@@ -96,6 +96,9 @@ However, that predictability may also give a sense of restriction and monotony t
 
 This is often done intentionally in settings where caution and attention is demanded. Although this is done for the sake of the player’s safety like in warning signs, it may also be done to demand authority over the player.
 
+#### _Shape Appeal_
+...
+
 ### Material Details & Texture
 While shapes and colours convey a more subtle meaning, materials and textures may convey a more literal meaning on top of the chromatic and geometric meanings.
 
@@ -149,6 +152,9 @@ The **frequency** of a sound is the rate of waveform cycle completions per secon
 >
 > _High frequencies feel sharp and electric._
 
+
+#### _Envelope_
+...
 
 ### Music Theory & Composition
 > Source: [Cinematic Composing (2023) 'How to Compose Music | Your first piece for Complete Beginners'](https://www.youtube.com/watch?v=ZdhdC2wx2Ew)
