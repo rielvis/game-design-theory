@@ -79,6 +79,8 @@ Colour harmonies are the ways colours can be visually paired to pleasantly balan
 ### Shape Language & Psychology
 Shape psychology, much like colour psychology, is how people interpret and derive meaning from shapes. Shape language is the use of shapes to trigger those interpretations.
 
+![Shapes](/images/Shapes.jpg)
+
 #### _Curved Shapes_
 Curved shapes like circles, ovals, and blobs elicit calm and relaxing emotions as they ease the brain’s threat response. Blobs may also be called **organic shapes**.
 
