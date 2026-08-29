@@ -148,7 +148,38 @@ Once you have all your ideas recorded, you can start ordering where you ideas si
 > _As explained earlier, the trajectory of tension and intensity depends on the story you want to tell._
 
 ### _Formatting (Rules for Scripting)_
+> Source: [StudioBinder (2023) 'Anatomy of a Screenplay — Movie Script Format Explained (And Why It Matters)'](https://www.youtube.com/watch?v=6PLSJBTzaGw)
 
+When you take your story to a script for screenplay, there are some formatting rules you may need to follow. 
+
+> _Although video games are not strictly bound by the same rules, the similarities between film production and cinematic game production can help bridge those originally from the film industry into your game project._
+
+#### _Font_
+Font should be `12 pt. Courier`.
+
+The font should be **monospaced**, which means each letter takes up the same space on the page.
+
+#### _Page_
+The first page should be the **title page**. 
+- The title should be **capitalised** and **written in the centre**, written as `[TITLE]`. 
+- Beneath the title should be an **acknowledgement of the writer(s)**, written as `by [Writer]`.
+- If the screenplay is based on a pre-existing story, beneath the writer acknowledgement should be a **reference to the source material**, written as `Based on the [media] '[name of media]' by [Author]`.
+- You may also include your **contact information and the **date of draft** in either bottom-corner**, though this is not strictly necessary.
+
+Non-title page margins should be `1.5"` on **left** and `1"` on **right**, **top**, and **bottom**.
+
+Non-title pages should be **numbered in the top-right corner**.
+
+#### _Slugline_
+The slugline (or scene heading) is used to initiate a scene, and it contains the **location** and **time** of a scene.
+
+The slugline is always **capitalised**.
+
+Outside locations start a slugline with `EXT.` and inside locations start with `INT.`. Locations that are a mix of both start with `INT./EXT.`. Following should be a title for the location, with dash-connected sub-locations if necessary. For example, this may be written as `INT. DERELICT HOUSE - BEDROOM` or `EXT. NIGHT CLUB`.
+
+Following the location information should be the time information, dash-connected. This could be general `DAY` or `NIGHT`, though some writers opt to be more specific with `DAWN`, `MORNING`, `NOON`, `AFTERNOON`, `EVENING`, `DUSK`, or an even more specific time `3 A.M.` or `5 P.M.`. You can also use time descriptions in relation to a previous scene, like `CONTINUOUS` to carry on the same time, `SAME` for when a scene is happening **at the same time, not from**. As long as the reader understands when the scene takes place, that is all that matters.
+
+A complete slugline therefore could look like `INT. DERELICT HOUSE - BEDROOM - DAY` or `EXT. NIGHT CLUB - NIGHT`.
 
 ### _Writing (Show. Flow. Know.)_
 ...
