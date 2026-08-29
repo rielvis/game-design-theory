@@ -76,12 +76,32 @@ Colour harmonies are the ways colours can be visually paired to pleasantly balan
 
 - **Triadic harmony** is the use of three colours at equal distances from each other on the colour wheel, like red/yellow/blue or orange/green/purple.
 
-
 ### Shape Language & Psychology
-...
+Shape psychology, much like colour psychology, is how people interpret and derive meaning from shapes. Shape language is the use of shapes to trigger those interpretations.
+
+#### _Curved Shapes_
+Curved shapes like circles, ovals, and blobs elicit calm and relaxing emotions as they ease the brain’s threat response. Blobs may also be called **organic shapes**.
+
+The lack of sharp piercing shapes tells us that what we are seeing is not immediately dangerous, and as these shapes are prevalent in nature they convey a sense of passivity which can feel safe and welcoming.
+
+However, with organic shapes, because they are a “natural” shape and nature is largely out of our control, they may induce a sense of chaos and irregularity which can feel unsettling.
+
+#### _Rectangular Shapes_
+Rectangular shapes like rectangles and squares convey stability and order as they are used in construction and rigid organisation. They maintain a sense of safety while also providing a sense of predictability as they lack the irregularity of organic shapes.
+
+However, that predictability may also give a sense of restriction and monotony that can feel boring and unlively.
+
+#### _Triangular Shapes_
+Triangular shapes are a stark contrast to curved shapes as they spark feelings of high energy, tension, and alertness. Attention is pulled to their points which can trigger caution, as these shapes in nature can mean something will pierce you and cause bodily harm.
+
+This is often done intentionally in settings where caution and attention is demanded. Although this is done for the sake of the player’s safety like in warning signs, it may also be done to demand authority over the player.
 
 ### Material Details & Texture
-...
+While shapes and colours convey a more subtle meaning, materials and textures may convey a more literal meaning on top of the chromatic and geometric meanings.
+
+For example, you may have a green floor to mean growth and health, but the material could either be a wooden floor or a metallic floor depending on the actual setting of your game. A wooden floor may subtly convey meanings associated with utilising nature, and a metallic floor may convey the subtleties of industrialism.
+
+> _Material intention often serves a more literal meaning to the setting, but subtlety can still be considered._
 
 ## Audial Design
 
