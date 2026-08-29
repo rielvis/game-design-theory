@@ -141,9 +141,11 @@ A sure way to generate ideas is by asking, "What if...?"
 
 Once you have all your ideas recorded, you can start ordering where you ideas sit from start to finish and which ideas you end up keeping and scrapping.
 
-> _I created this map to align two common story structures - **Aristotle's Three Act Structure** and **The Hero's Journey** - along three acts. As explained earlier, the trajectory of tension and intensity depends on the story you want to tell._
-
 ![Story Arc No Line](/images/StoryArc-NoLine.png)
+
+> _I created this map to align two common story structures - **Aristotle's Three Act Structure** and **The Hero's Journey** - along three acts. The thicker lines represent the shift between acts._
+>
+> _As explained earlier, the trajectory of tension and intensity depends on the story you want to tell._
 
 ### _Formatting (Rules for Scripting)_
 
