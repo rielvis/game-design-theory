@@ -131,7 +131,17 @@ The synopsis of your story describes who your protagonist is, what they are tryi
 > _Twisted Tower: A man with a troubled family (who) explores a wackily creepy tower (what) in pursuit of his fiance where she is trapped (why)._
 
 ### _Structure (Ordering the Ideas)_
-...
+There are plenty of ways to structure a story. _Film Riot_ describes starting by throwing as many ideas on top of your core concept without too much worry about where that idea will exist.
+
+A sure way to generate ideas is by asking, "What if...?"
+
+> _Celeste: What if the mountain is the source of the magic? What if their anxiety is personified? What if one of the manifestations is a monster that chases you?_
+
+Once you have all your ideas recorded, you can start ordering where you ideas sit from start to finish and which ideas you end up keeping and scrapping.
+
+> _I created this map to align two common story structures - **Aristotle's Three Act Structure** and **The Hero's Journey** - along three acts. As explained earlier, the trajectory of tension and intensity depends on the story you want to tell._
+
+![Story Arc No Line](/images/StoryArc-NoLine.png)
 
 ### _Formatting (Rules for Scripting)_
 ...
