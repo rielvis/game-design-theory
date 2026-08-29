@@ -29,7 +29,7 @@ The audience can best distinguish between different visual and audial elements w
 
 > _Limit semantic elements to avoid overlaps in association._
 
-### _The Gestalt Principles_
+### [_The Gestalt Principles_](https://www.gestaltprinciples.com/)
 The Gestalt principles are guidelines for how our brains make sense of what we see. They explain why we naturally group things together, spot patterns, and understand complex visuals and audio.
 
 > _Use the Gestalt principles to ensure your audience catches your meanings._
