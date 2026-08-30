@@ -30,11 +30,15 @@ There are three things that determine how **appealing** your game is:
 ---
 
 ## P1-STEP 0 - Game Idea & Design Pillars
-Every game starts with an idea or a premise. The idea could be a game mechanic, a story theme, an artistic style, or it could be as simple as a feeling or experience you want the player to have regardless of the specific game mechanic or plot line. 
+Every game starts with an idea or a premise. The idea could be a game mechanic, a story theme, an artistic style, or it could be as simple as a feeling or experience you want the player to have regardless of the specific game mechanic or plot line.
 
-Your **design pillars** are the core ideas and concepts that describe the identity of your game.
+However important design is, we recommended creating a **prototype** of your game idea based on your initial idea. This could be a playable mini-game, a story outline, or concept art.
 
-**_To establish the initial idea for your game, create a one-line pitch that encapsulates the core of what your game is about mechanically, narratively, and aesthetically._**
+From there, you can establish your **design pillars** from it, which are the core ideas and concepts that describe the identity of your game. 
+
+> _These ideas are what you want to communicate when developing your design further, as well as when you pitch your game to your peers and potential investors._
+
+Deliverable for this step is an **_idea pitch & prototype_**.
 
 ---
 |**<<<**|**<**|**>**|**>>>**|
