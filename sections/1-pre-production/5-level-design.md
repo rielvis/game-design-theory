@@ -119,7 +119,11 @@ It is also important to establish a **functional vocabulary** for your player, w
 
 > _In a lot of RPG games, yellow paint and tape is used to indicate that a player can interact with it in some way._
 >
-> _In the Batman Arkham Trilogy, yellowish crumbling walls indicate to the player that they can be destroyed using explosive gel._
+> _In the Batman Arkham Trilogy, yellowish crumbling walls indicate to the player that they can be destroyed using explosive gel. Wooden panels in walls can also be interpreted as breakable._
+
+![Affordance Example](/images/affordance_eg.jpg)
+
+
 
 ### _Narrative Assets_
 The narrative assets of your level are used for environmental storytelling. They may have limited meanings on their own, but a larger story can be implied if you arrange them in relation to each other.
