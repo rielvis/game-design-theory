@@ -161,14 +161,16 @@ Recorded sounds today tend to feel more realistic, but synthesised sounds tend t
 >
 > _Softer sounds feel soothing and relaxing._
 
-#### _Amplitude_
+![Waveform](/images/waveforms.jpg)
+> Source: [Mixing Monster (2026) 'Audio Waveforms Explained | Insights For Audio Editors 2026'](https://mixingmonster.com/audio-waveforms-explained/)
+
+#### _Amplitude & Frequency_
 The **amplitude** of a sound is the size of the wave which represents how loud the sound is. Higher amplitude means louder sound, and lower amplitude means quieter sound. Amplitude is measured in decibels (dB).
 
 > _Louder sounds are associated with higher intensity feelings._
 >
 > _Quieter sounds are associated with lower intensity feelings._
 
-#### _Frequency_
 The **frequency** of a sound is the rate of waveform cycle completions per second, and this represents the perceived pitch of the sound. More frequency means a higher pitch, and less frequency means a lower pitch. Frequency is measured in Hertz (Hz).
 
 > _Low frequencies feel round and grounded._
@@ -177,9 +179,14 @@ The **frequency** of a sound is the rate of waveform cycle completions per secon
 >
 > _High frequencies feel sharp and electric._
 
+![Amplitude & Frequency](/images/amplitudefrequency.jpg)
+> Source: [Galaxy Audio](https://www.galaxyaudio.com/assets/uploads/media/Freq-Wavelength.jpg)
 
 #### _Envelope_
 ...
+
+![ADSR Envelope](/images/adsr.jpg)
+> Source: [Native Instruments (2023) 'ADSR explained: How to control synth envelopes in your music'](https://blog.native-instruments.com/adsr-explained/)
 
 ### Music Theory & Composition
 > Source: [Cinematic Composing (2023) 'How to Compose Music | Your first piece for Complete Beginners'](https://www.youtube.com/watch?v=ZdhdC2wx2Ew)
