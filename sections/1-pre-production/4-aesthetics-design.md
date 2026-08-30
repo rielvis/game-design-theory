@@ -128,6 +128,9 @@ For example, you may have a green floor to mean growth and health, but the mater
 
 > _Material intention often serves a more literal meaning to the setting, but subtlety can still be considered._
 
+![Material Textures](/images/materialtextures.jpg)
+> _~~Source: [Azuki Design](https://azukidesign.shop/textures-tile/)~~ (LINK BROKEN)_
+
 ## Audial Design
 
 ### Sound Effects & Ambiance
