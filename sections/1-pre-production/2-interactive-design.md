@@ -86,6 +86,8 @@ They may also be known as *wireframes*, a term used in web design for an outline
 ![Wireframe Example](/images/wireframeexample.png)
 > Source: [Joanna Stringer 'Game Concept FPS HUD Wireframe'](https://www.alchemyprodigy.net/portfolio/games/JoannaStringer_gameConcept_FpsHud_wireframe.png)
 
+Creating a UI schematic can help you identify how the player will receive information about the game state and their abilities within the game.
+
 ---
 
 |**<<<**|**<**|**>**|**>>>**|
