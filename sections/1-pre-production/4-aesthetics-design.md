@@ -183,7 +183,15 @@ The **frequency** of a sound is the rate of waveform cycle completions per secon
 > Source: [Galaxy Audio](https://www.galaxyaudio.com/assets/uploads/media/Freq-Wavelength.jpg)
 
 #### _Envelope_
-...
+The **envelope** of a sound is the visualisation of it as it begins and ends. We identify different parts of a sound by their **attack**, **decay**, **sustain**, and **release**, acronymised as the *ADSR envelope*.
+
+- **Attack** is the start of a sound and describes how quickly it goes from no volume to peak volume.
+
+- **Decay** follows the attack to transition from peak volume to the sustained volume.
+
+- **Sustain** is the middle of a sound and describes how loud the sound should be for the majority of its playback.
+
+- **Release** is the end of a sound and describes how quickly it goes from the sustained volume to no volume.
 
 ![ADSR Envelope](/images/adsrenvelope.png)
 > Source: [Linux Audio 'Libre Music Production'](https://linuxaudio.github.io/libremusicproduction/html/answer/adsr-envelope.html)
