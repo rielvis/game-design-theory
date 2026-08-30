@@ -123,8 +123,6 @@ It is also important to establish a **functional vocabulary** for your player, w
 
 ![Affordance Example](/images/affordance_eg.jpg)
 
-
-
 ### _Narrative Assets_
 The narrative assets of your level are used for environmental storytelling. They may have limited meanings on their own, but a larger story can be implied if you arrange them in relation to each other.
 
