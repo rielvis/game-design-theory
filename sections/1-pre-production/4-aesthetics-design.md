@@ -185,8 +185,8 @@ The **frequency** of a sound is the rate of waveform cycle completions per secon
 #### _Envelope_
 ...
 
-![ADSR Envelope](/images/adsr.jpg)
-> Source: [Native Instruments (2023) 'ADSR explained: How to control synth envelopes in your music'](https://blog.native-instruments.com/adsr-explained/)
+![ADSR Envelope](/images/adsrenvelope.png)
+> Source: [Linux Audio 'Libre Music Production'](https://linuxaudio.github.io/libremusicproduction/html/answer/adsr-envelope.html)
 
 ### Music Theory & Composition
 > Source: [Cinematic Composing (2023) 'How to Compose Music | Your first piece for Complete Beginners'](https://www.youtube.com/watch?v=ZdhdC2wx2Ew)
