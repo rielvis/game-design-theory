@@ -65,6 +65,8 @@ Their role is to indicate a sort of *checkpoint* - a break between beats - to th
 ### _Guidelines & Guardrails_
 **Guidelines** are used to direct the player without controlling or explicitly telling them where to go. Using geometry from the player's perspective, we can guide the eyes towards where we want the player's attention.
 
+![Guidelines Example](/images/guidelines_eg.jpg)
+
 **Guardrails** are similar in that they direct the player, but they are more an enforcement than a suggestion. They block the player from deviating from a set path, preventing them from wandering to demand more attention.
 
 > _Player choice is a valuable thing. We play games because we want to be a driving force in the unfolding of a story or system. Otherwise, we would have watched a movie._
@@ -73,6 +75,8 @@ Their role is to indicate a sort of *checkpoint* - a break between beats - to th
 
 ### _Lighting & Movement_
 **Lighting** and **movement** is all about grabbing the player's attention. Having a difference in either creates a noticeable contrast that players will notice.
+
+![Lighting Example](/images/lighting_eg.jpg)
 
 ### _Restriction & Flow Control_
 This is similar to the point of guardrails, but with more focus on prevention than enforcement.
