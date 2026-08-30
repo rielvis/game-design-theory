@@ -82,7 +82,9 @@ A common way to control the flow of your level is by using **gates**, which are 
 You can also use a **one-way valve** to have them enter a certain area but with way for them to turn back, which forces them to move forward.
 
 ### _Diverging & Merging Paths_
-...
+Branching paths serve player choice and agency, and can again be managed through **the illusion of choice**.
+
+You give the players a sense of control by diverging the path, then you merge the paths back into one so you only have to consider a single outcome.
 
 ### _Mystery & Curiosity Control_
 ...
