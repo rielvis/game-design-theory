@@ -56,14 +56,22 @@ Levels build and decompress between high intensity and low intensity moments. Of
 Spatial composition and dynamics refer to how we use architecture and the visuals of a space to guide the player without explicitly telling them where to go.
 
 ### _Objectives & Landmarks_
-Players need to know what their objective is. You could communicate that objective with a mission HUD for the player, or you could use **landmarks**, which are highly distinctive structures or environmental cues that grab the player’s attention. 
+Players need to know what their **objective** is. You could communicate that objective with a mission HUD for the player, or you could use **landmarks**, which are highly distinctive structures or environmental cues that grab the player’s attention. 
 
 Their role is to indicate a sort of *checkpoint* - a break between beats - to the player. Those breaks act as safe zones for the player to pause (or end if the game is complete).
 
 ![BAK Landmark](/images/landmark_eg.jpg)
 
 ### _Guidelines & Guardrails_
-...
+**Guidelines** are used to direct the player without controlling or explicitly telling them where to go. Using geometry from the player's perspective, we can guide the eyes towards where we want the player's attention.
+
+**Guardrails** are similar in that they direct the player, but they are more an enforcement than a suggestion. They block the player from deviating from a set path, preventing them from wandering to demand more attention.
+
+> _Player choice is a valuable thing. We play games because we want to be a driving force in the unfolding of a story or system. Otherwise, we would have watched a movie._
+>
+> _Use guardrails sparingly and keep your guidelines noticeable enough to nudge the player without being overly demanding. Guidelines are suggestions, and guardrails are enforcements._
+> 
+> _Maintain a sense of player agency by having more suggestions than enforcements._
 
 ### _Lighting & Movement_
 ...
