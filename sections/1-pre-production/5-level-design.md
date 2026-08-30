@@ -72,10 +72,14 @@ Their role is to indicate a sort of *checkpoint* - a break between beats - to th
 > _Guidelines are suggestions, and guardrails are enforcements. Maintain a sense of player agency by having more suggestions than enforcements._
 
 ### _Lighting & Movement_
-...
+**Lighting** and **movement** is all about grabbing the player's attention. Having a difference in either creates a noticeable contrast that players will notice.
 
 ### _Restriction & Flow Control_
-...
+This is similar to the point of guardrails, but with more focus on prevention than enforcement.
+
+A common way to control the flow of your level is by using **gates**, which are obstacles that prevent the player from moving forward. This forces them to explore and search for another way towards their objective.
+
+You can also use a **one-way valve** to have them enter a certain area but with way for them to turn back, which forces them to move forward.
 
 ### _Diverging & Merging Paths_
 ...
