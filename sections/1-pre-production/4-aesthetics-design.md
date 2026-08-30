@@ -82,25 +82,33 @@ Shape psychology, much like colour psychology, is how people interpret and deriv
 ![Bouba & Kiki](/images/boubakiki.jpg)
 > Source: [Luke Groskin (2016) 'The Bouba-Kiki Effect'](https://www.sciencefriday.com/videos/the-bouba-kiki-effect/)
 
-#### _Curved Shapes_
-**Curved shapes** like circles, ovals, and blobs elicit calm and relaxing emotions as they ease the brain’s threat response. Blobs may also be called **organic shapes**.
-
-The lack of sharp piercing shapes tells us that what we are seeing is not immediately dangerous, and as these shapes are prevalent in nature they convey a sense of passivity which can feel safe and welcoming.
-
-However, with organic shapes, because they are a “natural” shape and nature is largely out of our control, they may induce a sense of chaos and irregularity which can feel unsettling.
-
-#### _Rectangular Shapes_
-**Rectangular shapes** like rectangles and squares convey stability and order as they are used in construction and rigid organisation. They maintain a sense of safety while also providing a sense of predictability as they lack the irregularity of organic shapes.
-
-However, that predictability may also give a sense of restriction and monotony that can feel boring and unlively.
-
-#### _Triangular Shapes_
-**Triangular shapes** are a stark contrast to curved shapes as they spark feelings of high energy, tension, and alertness. Attention is pulled to their points which can trigger caution, as these shapes in nature can mean something will pierce you and cause bodily harm.
-
-This is often done intentionally in settings where caution and attention is demanded. Although this is done for the sake of the player’s safety like in warning signs, it may also be done to demand authority over the player.
-
 #### _Shape Appeal_
-...
+> Source: [Sinix Design (2020) 'Design Theory: Shape Appeal'](https://www.youtube.com/watch?v=P6yJO9gKSAI&list=PLfXQghQbK0Ww)
+
+**Shape appeal** is generally about what makes some shapes more appropriate or appealing than others.
+
+There are plenty of ways to categorise shapes, one being the difference between **organic shapes** and **inorganic shapes**.
+
+- **Inorganic shapes** are those that are *geometrically balanced*, meaning there is an easy and predictable pattern to it.
+    - These shapes can bring a sense of stability as there is little to no deviation from a certain pattern.
+    - However, they may also give a sense of restriction and monotony that can feel boring and unlively.
+
+- **Organic shapes** are those that are *unbalanced* or *offset*, meaning there is less predictability than there would be in an inorganic shape.
+    - As these shapes are prevalent in nature, they convey a sense of passivity which can feel safe and welcoming.
+    - However, because nature is largely out of our control, they may also induce a sense of chaos and irregularity which can feel unsettling.
+
+Shapes may also be described as being **curved**, **rectangular**, or **triangular**.
+
+- **Curved shapes** like circles, ovals, and blobs elicit calm and relaxing emotions as the lack of sharp piercing shapes tells us that what we are seeing is not immediately dangerous.
+
+- **Rectangular shapes** like rectangles and squares convey stability and order as they are used in construction and rigid organisation.
+
+- **Triangular shapes** are a stark contrast to curved shapes as they spark feelings of high energy, tension, and alertness. Attention is pulled to their points which can trigger caution, as these shapes in nature can mean something will pierce you and cause bodily harm.
+    - This is often done intentionally in settings where caution and attention is demanded. Although this is done for the sake of the player’s safety like in warning signs, it may also be done to demand authority over the player.
+
+When using these shapes for a given element in our game, we generally want the shapes involved to feel cohesive with each other. This cohesion is known as **flow**.
+
+**Flow**
 
 ### Material Details & Texture
 While shapes and colours convey a more subtle meaning, materials and textures may convey a more literal meaning on top of the chromatic and geometric meanings.
