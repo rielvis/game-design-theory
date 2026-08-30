@@ -179,7 +179,7 @@ The **frequency** of a sound is the rate of waveform cycle completions per secon
 >
 > _High frequencies feel sharp and electric._
 
-![Amplitude & Frequency]()
+![Amplitude & Frequency](/images/ampfreq.jpg)
 > Source: [Galaxy Audio](https://www.galaxyaudio.com/assets/uploads/media/Freq-Wavelength.jpg)
 
 #### _Envelope_
