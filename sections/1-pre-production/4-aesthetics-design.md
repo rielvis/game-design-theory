@@ -110,7 +110,16 @@ Shapes may also be described as being **curved**, **rectangular**, or **triangul
 
 When using these shapes for a given element in our game, we generally want the shapes involved to feel cohesive with each other. This cohesion is known as **flow**.
 
-**Flow**
+**Flow** is the sense of movement one or more shapes convey. When that movement is uninterrupted, that is what makes shapes feel cohesive together. But if that movement is disrupted, cohesion breaks.
+
+A great way to identify and control the flow of your shapes is through **acute angles** and **obtuse angles**.
+
+- **Acute angles** are ones less than 90 degrees, like you would find in tapered shapes and polygons with 3 or less sides. These can disrupt flow by the sharp turn their lines take as you follow them.
+
+- **Obtuse angles** are ones more than 90 degress, like you would find in bloated shapes and polygons with 5 or more sides. These maintain flow by the slight turns their lines take as you follow them.
+
+![Obtuse Acute](/images/obtuse_acute.jpg)
+> Source: [BBC Bitesize 'Draw 2D Shapes'](https://www.bbc.co.uk/bitesize/topics/zqpjs82/articles/zkrpm39)
 
 ### Material Details & Texture
 While shapes and colours convey a more subtle meaning, materials and textures may convey a more literal meaning on top of the chromatic and geometric meanings.
