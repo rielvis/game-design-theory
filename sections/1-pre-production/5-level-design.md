@@ -69,9 +69,7 @@ Their role is to indicate a sort of *checkpoint* - a break between beats - to th
 
 > _Player choice is a valuable thing. We play games because we want to be a driving force in the unfolding of a story or system. Otherwise, we would have watched a movie._
 >
-> _Use guardrails sparingly and keep your guidelines noticeable enough to nudge the player without being overly demanding. Guidelines are suggestions, and guardrails are enforcements._
-> 
-> _Maintain a sense of player agency by having more suggestions than enforcements._
+> _Guidelines are suggestions, and guardrails are enforcements. Maintain a sense of player agency by having more suggestions than enforcements._
 
 ### _Lighting & Movement_
 ...
