@@ -87,25 +87,41 @@ Branching paths serve player choice and agency, and can again be managed through
 You give the players a sense of control by diverging the path, then you merge the paths back into one so you only have to consider a single outcome.
 
 ### _Mystery & Curiosity Control_
-...
+Another way to encourage player movement is by giving them something to be curious about.
+
+You can do this by giving them information that feels *incomplete*. Naturally, they may wonder about how that information completes, and giving them an opportunity to answer that curiosity can motivate them to move forward.
 
 ### _Safety & Recovery Dynamics_
-...
+Games are a balance of skill and challenge, and we ideally want the players to enter a flow state. The harder your game is for the player, the more likely they are to fail which may disrupt that flow.
+
+To maintain some of that flow after a failure, consider adding some **safety nets** so your player can quickly return to the path they were just on.
 
 ### _Critical & Optional Paths_
-...
+The **critical path** of your level is the route to the end of the level. It is the way your player's need to go in order to complete the level. Every level is going to have this if there is a definitive end.
 
-### _Affordance & Functional Vocabulary_
-...
+However, if your level is lacking in choice and agency, you can use **optional paths** which deviate from the critical path but offer more content and opportunities for play.
+
+> _This is a different point to **Diverging & Merging Paths**. Instead of thinking about multiple ways to get to a single destination, think about which routes are **essential** and which routes are **additional**._
 
 ## Aesthetics & Environmental Storytelling
-...
+Your levels are your canvas to convey more specific meanings and stories to the player beyond a primitive greyboxed blockout.
+
+### _Affordance & Functional Vocabulary_
+In level design, the **affordance** of something is how well an element communicates functionality to the player.
+
+This refers to how a player will look at an archway and think, "I can walk through that.", or how they'll look at a platform and think, "I can stand on that."
+
+It is also important to establish a **functional vocabulary** for your player, which is the use of specific environmental assets to tell the player what can be done in a space.
+
+> _In a lot of RPG games, yellow paint and tape is used to indicate that a player can interact with it in some way._
+>
+> _In the Batman Arkham Trilogy, yellowish crumbling walls indicate to the player that they can be destroyed using explosive gel._
 
 ### _Narrative Assets_
-...
+The narrative assets of your level are used for environmental storytelling. They may have limited meanings on their own, but a larger story can be implied if you arrange them in relation to each other.
 
 ## Level Documentation
-..
+...
 
 ### _Beat Charts_
 ...
