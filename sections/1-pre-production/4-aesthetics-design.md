@@ -97,6 +97,8 @@ There are plenty of ways to categorise shapes, one being the difference between 
     - As these shapes are prevalent in nature, they convey a sense of passivity which can feel safe and welcoming.
     - However, because nature is largely out of our control, they may also induce a sense of chaos and irregularity which can feel unsettling.
 
+![Geometric & Organic Shapes](/images/geometric-and-organic-shapes.jpg)
+
 Shapes may also be described as being **curved**, **rectangular**, or **triangular**.
 
 - **Curved shapes** like circles, ovals, and blobs elicit calm and relaxing emotions as the lack of sharp piercing shapes tells us that what we are seeing is not immediately dangerous.
