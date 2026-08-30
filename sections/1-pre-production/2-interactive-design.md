@@ -4,6 +4,7 @@ The interactive design of your GDD outlines how the player will actually interfa
 Deliverables for this step are:
 - _Audience Accessibility Report_
 - _Input-Output Schema_
+- _User Interface Wireframe_
 
 ---
 
@@ -76,6 +77,14 @@ This feedback channel can be used to play sound effects and music depending on t
 **Haptic** feedback uses vibrations within a gamepad controller to deliver information via touch to the player.
 
 Any pattern of frequency or intensity can be used, much like audio, to signal player activity and game state for better immersion.
+
+## UI Schematic
+A **UI (user interface) schematic** is a visual outline of what the player will see as they play your game.
+
+They may also be known as *wireframes*, a term used in web design for an outline of where content will sit on a web-page. For game design, we can use a UI schematic to outline where the different UI elements will sit.
+
+![Wireframe Example](/images/wireframeexample.png)
+> Source: [Joanna Stringer 'Game Concept FPS HUD Wireframe'](https://www.alchemyprodigy.net/portfolio/games/JoannaStringer_gameConcept_FpsHud_wireframe.png)
 
 ---
 
