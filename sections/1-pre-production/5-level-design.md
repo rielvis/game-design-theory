@@ -56,10 +56,11 @@ Levels build and decompress between high intensity and low intensity moments. Of
 Spatial composition and dynamics refer to how we use architecture and the visuals of a space to guide the player without explicitly telling them where to go.
 
 ### _Objectives & Landmarks_
-Players want to know what their objective is. You could communicate that objective with a mission HUD for the player, but without it you can use **landmarks**.
+Players need to know what their objective is. You could communicate that objective with a mission HUD for the player, or you could use **landmarks**, which are highly distinctive structures or environmental cues that grab the player’s attention. 
 
-Landmarks are highly distinctive structures or environmental cues that grab the player’s attention.
+Their role is to indicate a sort of *checkpoint* - a break between beats - to the player. Those breaks act as safe zones for the player to pause (or end if the game is complete).
 
+![BAK Landmark](/images/landmark_eg.jpg)
 
 ### _Guidelines & Guardrails_
 ...
