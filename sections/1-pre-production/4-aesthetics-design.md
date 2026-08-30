@@ -98,6 +98,7 @@ There are plenty of ways to categorise shapes, one being the difference between 
     - However, because nature is largely out of our control, they may also induce a sense of chaos and irregularity which can feel unsettling.
 
 ![Geometric & Organic Shapes](/images/geometric-and-organic-shapes.jpg)
+> Source: [Dafi Deff (2018) 'Visual element of Graphic Design: Shape '](https://www.dafideff.com/2018/05/visual-element-of-graphic-design-shape.html)
 
 Shapes may also be described as being **curved**, **rectangular**, or **triangular**.
 
