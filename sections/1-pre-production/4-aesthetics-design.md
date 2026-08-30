@@ -195,6 +195,8 @@ The **frequency** of a sound is the rate of waveform cycle completions per secon
 
 Music is utilized in theatre, movies, and games to amplify and guide the emotions of the audience.
 
+![Circle of Fifths](/images/Circle_of_5ths_hires.jpg)
+
 #### _Musical Feeling_
 ...
 
