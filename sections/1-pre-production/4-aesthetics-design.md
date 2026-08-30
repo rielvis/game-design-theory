@@ -107,7 +107,6 @@ Shapes may also be described as being **curved**, **rectangular**, or **triangul
 - **Rectangular shapes** like rectangles and squares convey stability and order as they are used in construction and rigid organisation.
 
 - **Triangular shapes** are a stark contrast to curved shapes as they spark feelings of high energy, tension, and alertness. Attention is pulled to their points which can trigger caution, as these shapes in nature can mean something will pierce you and cause bodily harm.
-    - This is often done intentionally in settings where caution and attention is demanded. Although this is done for the sake of the player’s safety like in warning signs, it may also be done to demand authority over the player.
 
 When using these shapes for a given element in our game, we generally want the shapes involved to feel cohesive with each other. This cohesion is known as **flow**.
 
