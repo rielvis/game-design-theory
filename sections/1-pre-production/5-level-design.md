@@ -119,3 +119,9 @@ It is also important to establish a **functional vocabulary** for your player, w
 
 ### _Narrative Assets_
 The narrative assets of your level are used for environmental storytelling. They may have limited meanings on their own, but a larger story can be implied if you arrange them in relation to each other.
+
+---
+
+|**<<<**|**<**|**>**|**>>>**|
+|-|-|-|-|
+| _[PHASE 0 - Preparation](../0-preparation)_ | _[P1-STEP 4 : Aesthetics Design](../1-pre-production/4-aesthetics-design.md)_ | _[PHASE 2 : Production]()_ | _[PHASE 2 : Production]()_ |
