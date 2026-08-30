@@ -185,7 +185,7 @@ The **frequency** of a sound is the rate of waveform cycle completions per secon
 #### _Envelope_
 ...
 
-![ADSR Envelope](/images/adsr.jpg)
+![ADSR Envelope]()
 > Source: [Native Instruments (2023) 'ADSR explained: How to control synth envelopes in your music'](https://blog.native-instruments.com/adsr-explained/)
 
 ### Music Theory & Composition
