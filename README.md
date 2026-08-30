@@ -21,7 +21,7 @@ Check out [my YouTube channel](https://www.youtube.com/@rielvis) for a collectio
 | [Interactive Design](sections/1-pre-production/2-interactive-design.md) | How will the player accessibly interact with the game? | ✅ |
 | [Narrative Design](sections/1-pre-production/3-narrative-design.md) | What story is being told by your game? | ✅ |
 | [Aesthetics Design](sections/1-pre-production/4-aesthetics-design.md) | What does your game look and sound like? | ✅ |
-| [Level Design](sections/1-pre-production/5-level-design.md) | How will the player move through the game? | ⏳ |
+| [Level Design](sections/1-pre-production/5-level-design.md) | How will the player move through the game? | ✅ |
 
 ### [P2 - Production]()
 ⏳
