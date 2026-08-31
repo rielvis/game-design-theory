@@ -107,6 +107,9 @@ However, if your level is lacking in choice and agency, you can use **optional p
 
 > _This is a different point to **Diverging & Merging Paths**. Instead of thinking about multiple ways to get to a single destination, think about which routes are **essential** and which routes are **additional**._
 
+![Critical & Optional Paths](/images/criticaloptionalpaths.jpg)
+> Source: [Pavlo Skoroplyas (2021) 'Level design for beginners: paths, secrets and shortcuts'](https://kreonit.com/idea-generation-and-game-design/level-design-for-beginners/)
+
 ## Aesthetics & Environmental Storytelling
 Your levels are your canvas to convey more specific meanings and stories to the player beyond a primitive greyboxed blockout.
 
