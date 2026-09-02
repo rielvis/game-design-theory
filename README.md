@@ -39,7 +39,7 @@ It is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-- _This license is used as a protection against commercial plagiarism. I learned this stuff for free, and you should too!_
+- _This license is used as a protection against commercial plagiarism. I learned this for free and you should too!_
 
 - _This license does **_NOT_** stake any claim nor extend to any games where their design was informed by this write-up._
 
