@@ -30,14 +30,20 @@ Check out [my YouTube channel](https://www.youtube.com/@rielvis) for a collectio
 
 ## License & Content Notice
 
-This **compilation** is written and maintained by Robin Davis and is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
+This **compilation of information** is written and maintained by _Robin Davis_.
+
+It is licensed under a [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
 [![CC BY-NC-SA 4.0][cc-by-nc-sa-shield]][cc-by-nc-sa]
 
 [cc-by-nc-sa]: http://creativecommons.org/licenses/by-nc-sa/4.0/
 [cc-by-nc-sa-shield]: https://img.shields.io/badge/License-CC%20BY--NC--SA%204.0-lightgrey.svg
 
-_This work is not affiliated with any organisation._
+- _This license is used as a protection against commercial plagiarism. I learned this stuff for free, and you should too!_
+
+- _This license does **_NOT_** stake any claim nor extend to any games where their design was informed by this write-up._
+
+- _This work is not affiliated with any organisation._
 
 ### AI Notice
 
